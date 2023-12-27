@@ -41,6 +41,6 @@ If you would like to get a free copy of WIM2USB please contact us at
 [support@basevision.ch](mailto:support@basevision.ch?Subject=Request%20for%20WIM2USB)
 Find out more here:
 
--   [Introduction](/WIM2USB_Introduction "wikilink")
--   [Prerequisites](/WIM2USB_Prerequisites "wikilink")
--   [Tutorials](/WIM2USB_Tutorials "wikilink")
+-   [Introduction](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WIM2USB/WIM2USB_Introduction.md)
+-   [Prerequisites](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WIM2USB/WIM2USB_Prerequisites.md)
+-   [Tutorials](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WIM2USB/WIM2USB_Tutorials.md)
