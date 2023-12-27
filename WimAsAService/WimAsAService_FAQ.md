@@ -12,30 +12,30 @@ You can find the Login Page here <https://factory.wimasaservice.ch>
 Those numbers stand for the Windows Version and Editions you can select
 as a base for your Custom WIM:
 
-10.0.22631 = Windows 11 23H2
-10.0.22621 = Windows 11 22H2
-10.0.20348 = Windows Server 2022
-10.0.22000 = Windows 11
-10.0.19045 = Windows 10 22H2
-10.0.19044 = Windows 10 21H2 / Windows 10 LTSC 2021
-10.0.19043 = Windows 10 21H1
-10.0.19042 = Windows 10 20H2
+10.0.22631 = Windows 11 23H2  
+10.0.22621 = Windows 11 22H2  
+10.0.20348 = Windows Server 2022  
+10.0.22000 = Windows 11  
+10.0.19045 = Windows 10 22H2  
+10.0.19044 = Windows 10 21H2 / Windows 10 LTSC 2021  
+10.0.19043 = Windows 10 21H1  
+10.0.19042 = Windows 10 20H2  
 10.0.19041 = Windows 10 2004 / Windows Server 2004 (Only Core
-Versions)
+Versions)  
 10.0.18363 = Windows 10 1909 / Windows Server 1909 (Only Core
-Versions)
+Versions)  
 10.0.18362 = Windows 10 1903 / Windows Server 1903 (Only Core
-Versions)
-10.0.17763 = Windows 10 1809 / Windows 10 LTSC 2019 or Server 2019
-10.0.17134 = Windows 10 1803
+Versions)  
+10.0.17763 = Windows 10 1809 / Windows 10 LTSC 2019 or Server 2019  
+10.0.17134 = Windows 10 1803  
 10.0.16299 = Windows 10 1709 / Windows Server 1709 (Only Core
-Versions)
-10.0.15063 = Windows 10 1703
+Versions)  
+10.0.15063 = Windows 10 1703  
 10.0.14393 = Windows 10 1607 or Windows 10 1607 LTSB/LTSC or Server
-2016
-10.0.10586 = Windows 10 1511
-6.3.9600 = Windows 8.1 with Update 3 or Server 2012 R2
-6.1.7601 = Windows 7 with SP1 or Server 2008 R2
+2016  
+10.0.10586 = Windows 10 1511  
+6.3.9600 = Windows 8.1 with Update 3 or Server 2012 R2  
+6.1.7601 = Windows 7 with SP1 or Server 2008 R2  
 
 ### Adding an Application
 
@@ -69,5 +69,5 @@ Set-WinUserLanguageList $LanguageList -force
 ```
 
 
-This is a known issue with Windows 10 documented here:
+This is a known issue with Windows 10 documented here:  
 <https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/language-packs-known-issue#adding-language-packs-in-windows-10-version-1803-and-later-versions-known-issue>

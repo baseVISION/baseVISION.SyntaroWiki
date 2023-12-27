@@ -6,8 +6,8 @@ permalink: /WimAsAService_Global_Applications/
 ### Provided by baseVISION
 
 
-====GLOBAL_baseVISION_ActiveUserSetup_1.0.1_001_P_EN_x99==== This
-Package installs ActiveUserSetup that is an alternative to the Active
+#### GLOBAL_baseVISION_ActiveUserSetup_1.0.1_001_P_EN_x99
+This Package installs ActiveUserSetup that is an alternative to the Active
 Setup Method from Microsoft that doesn’t work with Inplace Upgrades.
 You can find more information at
 <https://wiki.syntaro.com/index.php?title=Active_User_Setup>
@@ -15,41 +15,42 @@ You can find more information at
 #### GLOBAL_baseVISION_PauseToDebug_1_001_P_ML_x99
 
 Do not use this Application! It stops the generation Process of your
-WIM.
+WIM.  
 This Package is only intended for Debugging through the baseVISION
 Support Staff
 
 #### GLOBAL_baseVISION_RemoveW11ConsumerTeams_1.0_001_P_ML_x64
 
 This Script removes the Consumer Teams App and sets a key that prevents
-it from being automatically reinstalled.
+it from being automatically reinstalled.  
 (ConfigureChatAutoInstall to 0 at
-HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Communications)
+HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Communications)  
 It also sets an other key that prevents the Chat icon form being shown
-in the Taskbar
+in the Taskbar  
 (ChatIcon to 3 at HKLM:\Software\Policies\Microsoft\Windows\Windows
 Chat)
-====GLOBAL_Microsoft_CMTrace_5.0.7782.1000_001_P_EN_x99==== Places the
+
+#### GLOBAL_Microsoft_CMTrace_5.0.7782.1000_001_P_EN_x99==== Places the
 Cmtrace Tool (Handy for reading Config Manager Logs) from Microsoft in
 your C:\Windows Folder
 
 #### GLOBAL_Microsoft_DisableWindowsConsumerFeatures_1.0_001_P_ML_x99
 
 Disables Windows 10 Consumer Features with setting the following
-registry Key:
+registry Key:  
 \[HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\CloudContent\]
-"DisableWindowsConsumerFeatures"=dword:00000001
-You can find more Details about this Setting here:
+"DisableWindowsConsumerFeatures"=dword:00000001  
+You can find more Details about this Setting here:  
 [Seeing extra apps? Turn them
 off](https://blogs.technet.microsoft.com/mniehaus/2015/11/23/seeing-extra-apps-turn-them-off/)
 
 #### GLOBAL_Customer_DisableSecureTime-KB3160312_1.0_001_P_ML_x99
 
 Fixes a Problem in Windows 10 1511 where the Computer could revert to a
-previous date and time
-\[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\w32time\Config\]
-"UtilizeSslTimeData"=dword:00000000
-You can find more Details about this Setting here:
+previous date and time  
+\[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\w32time\Config\]  
+"UtilizeSslTimeData"=dword:00000000  
+You can find more Details about this Setting here:  
 [A computer that is running Windows 10 Version 1511 reverts to a
 previous date and
 time](https://support.microsoft.com/en-us/help/3160312/a-computer-that-is-running-windows-10-version-1511-reverts-to-a-previous-date-and-time)
@@ -57,31 +58,32 @@ time](https://support.microsoft.com/en-us/help/3160312/a-computer-that-is-runnin
 #### GLOBAL_Microsoft_Office365ProPlus_CurrentChanel_001_P_EN&DE_x86
 
 This Application adds the newest Monthly Channel version for Office 365
-ProPlus for the languages German and English.
-It adds all Office Applications contained in the ProPlus Version.
+ProPlus for the languages German and English.  
+It adds all Office Applications contained in the ProPlus Version.  
 For the product activation, a Office 365 ProPlus license has to be
-assigned to the User.
-====GLOBAL_baseVISION_Restart_1.0_001_P_ML_x99==== This Package
-initiates a restart.
+assigned to the User.  
+
+#### GLOBAL_baseVISION_Restart_1.0_001_P_ML_x99  
+This Package initiates a restart.  
 You can use it if you need a Restart after a certain other Package
 Installation that doesn’t correctly provide a 3010 Exit Code.
 
 ### Provided by ruckzuck
 
 The following Applications are imported form the Service
-<https://ruckzuck.tools/>
-baseVISION has not created or tested those Packages.
+<https://ruckzuck.tools/>  
+baseVISION has not created or tested those Packages.  
 If you want more information about those Applications you can find theme
-in the [RuckZuck Repository](https://ruckzuck.tools/Repository.aspx)
+in the [RuckZuck Repository](https://ruckzuck.tools/Repository.aspx)  
 If there is a newer Version provided on RuckZuck or you need another
 Application that is available through RuckZuck,
 please feel free to contact us and we will try to import it for you.
 
 **Attention**:
 CurrentVersion Packages use the commandline tool rzget.exe. Since august
-2022 this needs .net 4.8 to run.
+2022 this needs .net 4.8 to run.  
 If you see an error during the installation of a CurrentVersion package
-.Net 4.8 might be missing.
+.Net 4.8 might be missing.  
 In that case use the Script GLOBAL_InstallLatestdotNetForRzget_001 in
 your PowerShell "Before Apps" section.
 

@@ -16,7 +16,7 @@ download your own WIM file directly through your web browser. With this
 service we try to support your BASE operation tasks and give your
 employees more time for VISION tasks.
 
-More overview Information you can find under:
+More overview Information you can find under:  
 <https://www.basevision.ch/services/syntaro-wimasaservice/>
 
 ### More technical Information
@@ -24,13 +24,13 @@ More overview Information you can find under:
 More technical Information you can find on this site in the following
 chapters:
 
--   [Tutorials](/WimAsAService_Tutorials "wikilink")
--   [Global Applications](/WimAsAService_Global_Applications "wikilink")
--   [FAQ](/WimAsAService_FAQ "wikilink")
--   [Scripts](/WimAsAService_Scripts "wikilink")
--   [AutopilotJSON](/WimAsAService_AutopilotJSON "wikilink")
--   [Support](/WimAsAService_Support "wikilink")
--   [ReleaseNotes](/WimAsAService_ReleaseNotes "wikilink")
+-   [Tutorials](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_Tutorials.md)
+-   [Global Applications](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_Global_Applications.md)
+-   [FAQ](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_FAQ.md)
+-   [Scripts](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_Scripts.md)
+-   [AutopilotJSON](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_AutopilotJSON.md)
+-   [Support](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_Support.md)
+-   [ReleaseNotes](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_ReleaseNotes.md)
 
 ## WIM2USB
 
