@@ -53,8 +53,8 @@ that would be to use a GUID.
 You can then create the following entries below it, depending on your
 needs:
 
-|                       |           |                   |                                                                                                                                                |
-|-----------------------|-----------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| | | | |
+|---|---|---|---|
 | **Item**              | **Type**  | **Optional/Must** | **Description**                                                                                                                                |
 | Execute               | REG_SZ    | Must              | The Command that gets executed. If the Command needs arguments, provide them in the dedicated argument Item.                                   |
 | Argument              | REG_SZ    | Optional          | The Arguments for your Exe                                                                                                                     |
