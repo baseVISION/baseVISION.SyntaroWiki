@@ -37,7 +37,7 @@ Azure directly via the Graph API.
 
 | | |
 |---|---|
-| ![AutopilotJSON](../Images/AutopilotJSON_001.png) | Before we retrieve our JSON file, we first must make sure that our Autopilot profile is configured correctly. Mainly, we want to make sure, that the flag “Convert all targeted devices to Autopilot” is set to Yes. |
+| ![AutopilotJSON](../Data/AutopilotJSON_001.png) | Before we retrieve our JSON file, we first must make sure that our Autopilot profile is configured correctly. Mainly, we want to make sure, that the flag “Convert all targeted devices to Autopilot” is set to Yes. |
 
 ## Retrieve your Autopilot JSON File
 
@@ -131,8 +131,8 @@ Out-File -InputObject $AutopilotConfigurationFile -FilePath $env:windir\Provisio
 ## Implement the Script in WimAsAService
 | | |
 |---|---|
-| ![AutopilotJSON](../Images/AutopilotJSON_002.png) | Navigate to the menu “Manage” in the WimAsAService portal and click on “PowerShell Scripts”. Here you can add your own script.Give it a fitting name, version number and description and upload the script that we created previously.
-| ![AutopilotJSON](../Images/AutopilotJSON_003.png) | Now we can add the script to the “Before Sysprep” section of the “PowerShell Script” options. This will copy our JSON data as the correctly named file to the correct folder.
+| ![AutopilotJSON](../Data/AutopilotJSON_002.png) | Navigate to the menu “Manage” in the WimAsAService portal and click on “PowerShell Scripts”. Here you can add your own script.Give it a fitting name, version number and description and upload the script that we created previously.
+| ![AutopilotJSON](../Data/AutopilotJSON_003.png) | Now we can add the script to the “Before Sysprep” section of the “PowerShell Script” options. This will copy our JSON data as the correctly named file to the correct folder.
 
 Now you are done. Generate the WIM-file and deploy it to your devices.
 On first startup, users will find themselves in the
