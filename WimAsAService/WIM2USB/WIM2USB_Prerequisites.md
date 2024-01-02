@@ -1,11 +1,12 @@
 # WIM2USB Prerequisites
-[1.]()  
-[2.]()  
-[3.]()  
-[4.]()  
-[5.]()  
 
-To create a USB Stick with WIM2USB you need the following things.
+To create a USB Stick with WIM2USB you need the following things.  
+
+[1. USB Stick](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WIM2USB/WIM2USB_Prerequisites.md#usb-stick)  
+[2. Admin Account](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WIM2USB/WIM2USB_Prerequisites.md#admin-account)  
+[3. WIM File](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WIM2USB/WIM2USB_Prerequisites.md#wim-file)  
+[4. Microsoft ISO](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WIM2USB/WIM2USB_Prerequisites.md#microsoft-iso)  
+[5. Drivers](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WIM2USB/WIM2USB_Prerequisites.md#drivers)  
 
 ### USB Stick
 
