@@ -32,13 +32,7 @@ The following graphic shows how your Image Types will be generated:
 
 There is a short Video, showing you how to add an Application:  
 <YouTube>https://youtu.be/Hd7r1FFIYUo</YouTube>
-<object width="425" height="350">
-  <param name="movie" value="https://youtu.be/Hd7r1FFIYUo" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://youtu.be/Hd7r1FFIYUo"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>  
+
 You can trigger any kind of Application Installation, as long that it can be executed silently.  
 If you want to add an Application, you first need to create a ZIP File that contains the Application Files. The File you want to execute needs to be in the Root Folder of your ZIP File.
 
@@ -118,9 +112,7 @@ Here we will quickly walk you through all the options you have:
 
 #### WebHook Data Reference
 
-| | |
-|---|---|
-|       
+  
     {
     "message": "Message Text",       
     "data": {
@@ -156,7 +148,7 @@ To react correctly in the code that is executed behind the webhook, we suggest t
 
 | | |
 |---|---|
-| ![WaaSMFA](../Data/450px-WaaSMFA.png) | To make the sign-in more secure, you can activate MFA (multi-factor authentication). Navigate via "Manage" to "User / Tenant Settings". In the "Tenant Settings" you can then simply check the "Multi-factor authentication" checkbox. Save the configuration with the Save button and your settings will be applied. The next time someone wants to sign in to your tenant, another page will appear after entering the username and password, asking for the numerical code that was sent to you by email. |
+![WaaSMFA](../Data/450px-WaaSMFA.png) | To make the sign-in more secure, you can activate MFA (multi-factor authentication). Navigate via "Manage" to "User / Tenant Settings". In the "Tenant Settings" you can then simply check the "Multi-factor authentication" checkbox. Save the configuration with the Save button and your settings will be applied. The next time someone wants to sign in to your tenant, another page will appear after entering the username and password, asking for the numerical code that was sent to you by email. |
 
 ### Use a custom autounattend.xml
 
