@@ -1,7 +1,6 @@
----
-title: WimAsAService AutopilotJSON
-permalink: /WimAsAService_AutopilotJSON/
----
+
+# WimAsAService AutopilotJSON
+
 
 # Use Case
 

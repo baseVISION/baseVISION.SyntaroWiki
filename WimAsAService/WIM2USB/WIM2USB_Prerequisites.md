@@ -1,7 +1,5 @@
----
-title: WIM2USB Prerequisites
-permalink: /WIM2USB_Prerequisites/
----
+# WIM2USB Prerequisites
+
 
 To create a USB Stick with WIM2USB you need the following things.
 

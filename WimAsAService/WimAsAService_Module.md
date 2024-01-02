@@ -1,7 +1,5 @@
----
-title: WimAsAService Module
-permalink: /WimAsAService_Module/
----
+
+# WimAsAService Module
 
 Welcome to the WIM As A Service documentation. On this Page you will
 find tutorials, scripts and FAQ to help you use our service.

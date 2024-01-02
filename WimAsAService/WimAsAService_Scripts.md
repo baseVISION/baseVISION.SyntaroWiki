@@ -1,7 +1,5 @@
----
-title: WimAsAService Scripts
-permalink: /WimAsAService_Scripts/
----
+# WimAsAService Scripts
+
 
 ## WimAsAService Scripts
 

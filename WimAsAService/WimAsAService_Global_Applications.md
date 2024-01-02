@@ -1,7 +1,5 @@
----
-title: WimAsAService Global Applications
-permalink: /WimAsAService_Global_Applications/
----
+# WimAsAService Global Applications
+
 
 ### Provided by baseVISION
 

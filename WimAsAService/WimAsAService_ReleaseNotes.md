@@ -1,7 +1,5 @@
----
-title: WimAsAService ReleaseNotes
-permalink: /WimAsAService_ReleaseNotes/
----
+# WimAsAService ReleaseNotes
+
 
 ## WimAsAService ReleaseNotes
 

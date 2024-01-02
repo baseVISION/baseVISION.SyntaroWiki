@@ -1,7 +1,5 @@
----
-title: WIM2USB Tutorials
-permalink: /WIM2USB_Tutorials/
----
+# WIM2USB Tutorials
+
 
 ### Prerequisites
 

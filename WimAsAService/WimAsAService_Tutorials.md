@@ -1,7 +1,6 @@
----
-title: WimAsAService Tutorials
-permalink: /WimAsAService_Tutorials/
----
+
+# WimAsAService Tutorials
+
 
 ### General Solution Overview
 
@@ -178,7 +177,7 @@ Lists of the Modern App Names and if they can be uninstalled:
 ![InstalledAppxPackages_10.0.22631.0_Windows-11-Enterprise_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.22631.0_Windows-11-Enterprise_64-bit.xlsx)  
 ![InstalledAppxPackages_10.0.22631.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.22631.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx)  
 
-**10.0.19045.0 /22H2**
+**10.0.19045.0 /22H2**  
 ![InstalledAppxPackages_10.0.19045.0_Windows-10-Education_32-bit.xlsx](../Data/InstalledAppxPackages_10.0.19045.0_Windows-10-Education_32-bit.xlsx)  
 ![InstalledAppxPackages_10.0.19045.0_Windows-10-Education_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.19045.0_Windows-10-Education_64-bit.xlsx)  
 ![InstalledAppxPackages_10.0.19045.0_Windows-10-Enterprise_32-bit.xlsx](../Data/InstalledAppxPackages_10.0.19045.0_Windows-10-Enterprise_32-bit.xlsx)  
@@ -220,7 +219,7 @@ Lists of the Modern App Names and if they can be uninstalled:
 ![InstalledAppxPackages_10.0.19042.0_Windows-10-Enterprise_32-bit.xlsx](../Data/InstalledAppxPackages_10.0.19042.0_Windows-10-Enterprise_32-bit.xlsx)  
 ![InstalledAppxPackages_10.0.19042.0_Windows-10-Enterprise_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.19042.0_Windows-10-Enterprise_64-bit.xlsx)  
 
-**10.0.18363.0 /1909**
+**10.0.18363.0 /1909**  
 ![InstalledAppxPackages_10.0.18363.0_Windows-10-Education_32-bit.xlsx](../Data/InstalledAppxPackages_10.0.18363.0_Windows-10-Education_32-bit.xlsx)  
 ![InstalledAppxPackages_10.0.18363.0_Windows-10-Education_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.18363.0_Windows-10-Education_64-bit.xlsx)  
 ![InstalledAppxPackages_10.0.18363.0_Windows-10-Enterprise_32-bit.xlsx](../Data/InstalledAppxPackages_10.0.18363.0_Windows-10-Enterprise_32-bit.xlsx)  
@@ -328,7 +327,7 @@ The script GLOBAL_OSIEnableOSDFailedMessage_001.ps1 will write a Failed Message 
 At the end of your own Task Sequence, you will have to enter the Script OSDEnableOSDMessage.ps1  
 <https://github.com/ThomasKur/ModernAndSecureWorkplace/blob/master/ConfigMgrOSD/OSDEnableOSDMessage.ps1>
 
-How to use the Script OSDEnableOSDMessage.ps1 is mentioned in this blog post:
+How to use the Script OSDEnableOSDMessage.ps1 is mentioned in this blog post:  
 <https://www.wpninjas.ch/2019/05/enhanced-os-deployment-end-message/>
 
 So the idea is that when you TS crashes for any reason and the user then logs in to his device he will get the above failed Message. If the TS went trough ok the user will get a success message when login in. Written by OSDEnableOSDMessage.ps1

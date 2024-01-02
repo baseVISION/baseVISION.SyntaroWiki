@@ -1,7 +1,5 @@
----
-title: WimAsAService Support
-permalink: /WimAsAService_Support/
----
+# WimAsAService Support
+
 
 ## WimAsAService Support
 

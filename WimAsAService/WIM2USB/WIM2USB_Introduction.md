@@ -1,7 +1,5 @@
----
-title: WIM2USB Introduction
-permalink: /WIM2USB_Introduction/
----
+# WIM2USB Introduction
+
 
 ### General Solution Overview
 

@@ -1,7 +1,5 @@
----
-title: WimAsAService FAQ
-permalink: /WimAsAService_FAQ/
----
+# WimAsAService FAQ
+
 
 ### Where can I login and generate my WIM-Files
 
