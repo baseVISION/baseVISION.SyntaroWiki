@@ -1,5 +1,8 @@
 # WimAsAService Scripts
-
+[1. WimAsAService Scripts](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_Scripts.md#wimasaservice-scripts-1)  
+[- 1.1. Get a List of installed Modern Apps (aka. Metro or Universal Apps)](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_Scripts.md#get-a-list-of-installed-modern-apps-aka-metro-or-universal-apps)  
+[- 1.2. Get a List of available Windows Features](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_Scripts.md#get-a-list-of-available-windows-features)  
+[- 1.3. Get the MD5 Hash of a File.ps1](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_Scripts.md#get-the-md5-hash-of-a-fileps1)  
 
 ## WimAsAService Scripts
 

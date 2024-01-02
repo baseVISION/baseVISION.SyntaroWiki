@@ -1,4 +1,9 @@
 # WimAsAService FAQ
+[1. Where can I login and generate my WIM-Files](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_FAQ.md#where-can-i-login-and-generate-my-wim-files)  
+[2. What do the numbers under “Select base WIM” mean?](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_FAQ.md#what-do-the-numbers-under-select-base-wim-mean)  
+[3. Adding an Application](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_FAQ.md#adding-an-application)  
+[4. Not all Updates are Installed](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_FAQ.md#not-all-updates-are-installed)  
+[5. Missing Language Packs](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_FAQ.md#missing-language-packs)  
 
 
 ### Where can I login and generate my WIM-Files
