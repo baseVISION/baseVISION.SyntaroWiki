@@ -1,12 +1,12 @@
 
 # WimAsAService AutopilotJSON
-[1.]()  
-[2.]()  
-[- 2.1.]()  
-[- 2.2.]()  
-[3.]()  
-[- 3.1.]()  
-[- 3.2.]()  
+[1. Use Case](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_AutopilotJSON.md#use-case)  
+[2. Getting the JSON File](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_AutopilotJSON.md#Getting-the-JSON-File)  
+[- 2.1. Validating Your Autopilot Enrollment Profile](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_AutopilotJSON.md#validating-your-autopilot-enrollment-profile)  
+[- 2.2. Retrieve your Autopilot JSON File](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_AutopilotJSON.md#retrieve-your-autopilot-json-file)  
+[3. Adding the JSON File to your WimAsAService Image](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_AutopilotJSON.md#adding-the-json-file-to-your-wimasaservice-image)  
+[- 3.1. Create the PowerShell-Script](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_AutopilotJSON.md#create-the-powershell-script)  
+[- 3.2. Implement the Script in WimAsAService](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_AutopilotJSON.md#implement-the-script-in-wimasaservice)  
 
 
 # Use Case
@@ -34,7 +34,8 @@ OOBE process as if it had been enrolled to Autopilot beforehand and
 requested the JSON file from Azure. The sole difference being that we
 have copied the JSON manually.
 
-=Getting the JSON File= Sadly, you cannot just download the JSON File
+# Getting the JSON File  
+Sadly, you cannot just download the JSON File
 from the Microsoft Endpoint Manager admin center. To get to the file
 instead, we need to use some PowerShell modules to retrieve it from
 Azure directly via the Graph API.

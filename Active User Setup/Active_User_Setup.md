@@ -1,7 +1,9 @@
----
-title: Active User Setup
-permalink: /Active_User_Setup/
----
+# Active User Setup
+[1. Why you need this](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/Active%20User%20Setup/Active_User_Setup.md#why-you-need-this)  
+[2. Active User Setup Documentation](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/Active%20User%20Setup/Active_User_Setup.md#active-user-setup-documentation)  
+[3. Examples](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/Active%20User%20Setup/Active_User_Setup.md#examples)  
+[4. Template](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/Active%20User%20Setup/Active_User_Setup.md#template)  
+[5. Where you can get it](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/Active%20User%20Setup/Active_User_Setup.md#where-you-can-get-it)  
 
 ## Why you need this
 
