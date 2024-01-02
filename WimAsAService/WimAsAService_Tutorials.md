@@ -173,8 +173,8 @@ organisations name.
 
 Lists of the Modern App Names and if they can be uninstalled:
 
-**10.0.22631.0 /W11 23H2**
-[<File:InstalledAppxPackages_10.0.22631.0_Windows-11-Education_64-bit.xlsx>](/File:InstalledAppxPackages_10.0.22631.0_Windows-11-Education_64-bit.xlsx "wikilink")
+**10.0.22631.0 /W11 23H2**  
+![WaaSAutxml6](../Data/test.xlsx)  
 [<File:InstalledAppxPackages_10.0.22631.0_Windows-11-Enterprise_64-bit.xlsx>](/File:InstalledAppxPackages_10.0.22631.0_Windows-11-Enterprise_64-bit.xlsx "wikilink")
 [<File:InstalledAppxPackages> 10.0.22631.0
 Windows-11-Enterprise-for-Virtual-Desktops
