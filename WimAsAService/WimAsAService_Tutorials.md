@@ -174,101 +174,63 @@ organisations name.
 Lists of the Modern App Names and if they can be uninstalled:
 
 **10.0.22631.0 /W11 23H2**  
-![WaaSAutxml6](../Data/test.xlsx)  
-[<File:InstalledAppxPackages_10.0.22631.0_Windows-11-Enterprise_64-bit.xlsx>](/File:InstalledAppxPackages_10.0.22631.0_Windows-11-Enterprise_64-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.22631.0
-Windows-11-Enterprise-for-Virtual-Desktops
-64-bit.xlsx](/File:InstalledAppxPackages_10.0.22631.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx "wikilink")
+![InstalledAppxPackages10.0.22631.0Windows-11-Education64-bit](../Data/InstalledAppxPackages10.0.22631.0Windows-11-Education64-bit.xlsx)  
+![InstalledAppxPackages_10.0.22631.0_Windows-11-Enterprise_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.22631.0_Windows-11-Enterprise_64-bit.xlsx)  
+![InstalledAppxPackages_10.0.22631.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.22631.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx)  
 
 **10.0.19045.0 /22H2**
-[<File:InstalledAppxPackages> 10.0.19045.0 Windows-10-Education
-32-bit.xlsx](/File:InstalledAppxPackages_10.0.19045.0_Windows-10-Education_32-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.19045.0 Windows-10-Education
-64-bit.xlsx](/File:InstalledAppxPackages_10.0.19045.0_Windows-10-Education_64-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.19045.0 Windows-10-Enterprise
-32-bit.xlsx](/File:InstalledAppxPackages_10.0.19045.0_Windows-10-Enterprise_32-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.19045.0 Windows-10-Enterprise
-64-bit.xlsx](/File:InstalledAppxPackages_10.0.19045.0_Windows-10-Enterprise_64-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.19045.0
-Windows-10-Enterprise-for-Virtual-Desktops
-64-bit.xlsx](/File:InstalledAppxPackages_10.0.19045.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx "wikilink")
+![InstalledAppxPackages_10.0.19045.0_Windows-10-Education_32-bit.xlsx](../Data/InstalledAppxPackages_10.0.19045.0_Windows-10-Education_32-bit.xlsx)  
+![InstalledAppxPackages_10.0.19045.0_Windows-10-Education_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.19045.0_Windows-10-Education_64-bit.xlsx)  
+![InstalledAppxPackages_10.0.19045.0_Windows-10-Enterprise_32-bit.xlsx](../Data/InstalledAppxPackages_10.0.19045.0_Windows-10-Enterprise_32-bit.xlsx)  
+![InstalledAppxPackages_10.0.19045.0_Windows-10-Enterprise_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.19045.0_Windows-10-Enterprise_64-bit.xlsx)  
+![InstalledAppxPackages_10.0.19045.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.19045.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx)  
 
-**10.0.22621.0 /W11 22H2**
-[<File:InstalledAppxPackages_10.0.22621.0_Windows-11-Education_64-bit.xlsx>](/File:InstalledAppxPackages_10.0.22621.0_Windows-11-Education_64-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages_10.0.22621.0_Windows-11-Enterprise_64-bit.xlsx>](/File:InstalledAppxPackages_10.0.22621.0_Windows-11-Enterprise_64-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.22621.0
-Windows-11-Enterprise-for-Virtual-Desktops
-64-bit.xlsx](/File:InstalledAppxPackages_10.0.22621.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx "wikilink")
+**10.0.22621.0 /W11 22H2**  
+![InstalledAppxPackages_10.0.22621.0_Windows-11-Education_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.22621.0_Windows-11-Education_64-bit.xlsx)  
+![InstalledAppxPackages_10.0.22621.0_Windows-11-Enterprise_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.22621.0_Windows-11-Enterprise_64-bit.xlsx)  
+![InstalledAppxPackages_10.0.22621.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.22621.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx)  
 
-**10.0.19044.0 /21H2**
-[<File:InstalledAppxPackages> 10.0.19044.0 Windows-10-Education
-32-bit.xlsx](/File:InstalledAppxPackages_10.0.19044.0_Windows-10-Education_32-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.19044.0 Windows-10-Education
-64-bit.xlsx](/File:InstalledAppxPackages_10.0.19044.0_Windows-10-Education_64-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.19044.0 Windows-10-Enterprise
-32-bit.xlsx](/File:InstalledAppxPackages_10.0.19044.0_Windows-10-Enterprise_32-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.19044.0 Windows-10-Enterprise
-64-bit.xlsx](/File:InstalledAppxPackages_10.0.19044.0_Windows-10-Enterprise_64-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.19044.0 Windows-10-Enterprise-LTSC
-64-bit.xlsx](/File:InstalledAppxPackages_10.0.19044.0_Windows-10-Enterprise-LTSC_64-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.19044.0
-Windows-10-Enterprise-for-Virtual-Desktops
-64-bit.xlsx](/File:InstalledAppxPackages_10.0.19044.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx "wikilink")
+**10.0.19044.0 /21H2**  
+![InstalledAppxPackages_10.0.19044.0_Windows-10-Education_32-bit.xlsx](../Data/InstalledAppxPackages_10.0.19044.0_Windows-10-Education_32-bit.xlsx)  
+![InstalledAppxPackages_10.0.19044.0_Windows-10-Education_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.19044.0_Windows-10-Education_64-bit.xlsx)  
+![InstalledAppxPackages_10.0.19044.0_Windows-10-Enterprise_32-bit.xlsx](../Data/InstalledAppxPackages_10.0.19044.0_Windows-10-Enterprise_32-bit.xlsx)  
+![InstalledAppxPackages_10.0.19044.0_Windows-10-Enterprise_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.19044.0_Windows-10-Enterprise_64-bit.xlsx)  
+![InstalledAppxPackages_10.0.19044.0_Windows-10-Enterprise-LTSC_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.19044.0_Windows-10-Enterprise-LTSC_64-bit.xlsx)  
+![InstalledAppxPackages_10.0.19044.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.19044.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx)  
 
-**10.0.22000.0 /W11**
-[<File:InstalledAppxPackages> 10.0.22000.0 Windows-10-Education
-64-bit.xlsx](/File:InstalledAppxPackages_10.0.22000.0_Windows-10-Education_64-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.22000.0 Windows-10-Enterprise
-64-bit.xlsx](/File:InstalledAppxPackages_10.0.22000.0_Windows-10-Enterprise_64-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.22000.0
-Windows-10-Enterprise-for-Virtual-Desktops
-64-bit.xlsx](/File:InstalledAppxPackages_10.0.22000.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx "wikilink")
+**10.0.22000.0 /W11**  
+![InstalledAppxPackages_10.0.22000.0_Windows-10-Education_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.22000.0_Windows-10-Education_64-bit.xlsx)  
+![InstalledAppxPackages_10.0.22000.0_Windows-10-Enterprise_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.22000.0_Windows-10-Enterprise_64-bit.xlsx)  
+![InstalledAppxPackages_10.0.22000.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.22000.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx)  
 
-**10.0.20348.0 /Server 2022**
-[<File:InstalledAppxPackages> 10.0.20348.0
-Windows-Server-2022-Datacenter
-64-bit.xlsx](/File:InstalledAppxPackages_10.0.20348.0_Windows-Server-2022-Datacenter_64-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.20348.0 Windows-Server-2022-Standard
-64-bit.xlsx](/File:InstalledAppxPackages_10.0.20348.0_Windows-Server-2022-Standard_64-bit.xlsx "wikilink")
+**10.0.20348.0 /Server 2022**  
+![InstalledAppxPackages_10.0.20348.0_Windows-Server-2022-Datacenter_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.20348.0_Windows-Server-2022-Datacenter_64-bit.xlsx)  
+![InstalledAppxPackages_10.0.20348.0_Windows-Server-2022-Standard_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.20348.0_Windows-Server-2022-Standard_64-bit.xlsx)  
 
-**10.0.19043.0 /21H1**
-[<File:InstalledAppxPackages> 10.0.19043.0 Windows-10-Education
-32-bit.xlsx](/File:InstalledAppxPackages_10.0.19043.0_Windows-10-Education_32-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.19043.0 Windows-10-Education
-64-bit.xlsx](/File:InstalledAppxPackages_10.0.19043.0_Windows-10-Education_64-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.19043.0 Windows-10-Enterprise
-32-bit.xlsx](/File:InstalledAppxPackages_10.0.19043.0_Windows-10-Enterprise_32-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.19043.0 Windows-10-Enterprise
-64-bit.xlsx](/File:InstalledAppxPackages_10.0.19043.0_Windows-10-Enterprise_64-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.19043.0
-Windows-10-Enterprise-for-Virtual-Desktops
-64-bit.xlsx](/File:InstalledAppxPackages_10.0.19043.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx "wikilink")
+**10.0.19043.0 /21H1**  
+![InstalledAppxPackages_10.0.19043.0_Windows-10-Education_32-bit.xlsx](../Data/InstalledAppxPackages_10.0.19043.0_Windows-10-Education_32-bit.xlsx)  
+![InstalledAppxPackages_10.0.19043.0_Windows-10-Education_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.19043.0_Windows-10-Education_64-bit.xlsx)  
+![InstalledAppxPackages_10.0.19043.0_Windows-10-Enterprise_32-bit.xlsx](../Data/InstalledAppxPackages_10.0.19043.0_Windows-10-Enterprise_32-bit.xlsx)  
+![InstalledAppxPackages_10.0.19043.0_Windows-10-Enterprise_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.19043.0_Windows-10-Enterprise_64-bit.xlsx)  
+![InstalledAppxPackages_10.0.19043.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.19043.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx)  
 
-**10.0.19042.0 /20H2**
-[<File:InstalledAppxPackages> 10.0.19042.0 Windows-10-Education
-32-bit.xlsx](/File:InstalledAppxPackages_10.0.19042.0_Windows-10-Education_32-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.19042.0 Windows-10-Education
-64-bit.xlsx](/File:InstalledAppxPackages_10.0.19042.0_Windows-10-Education_64-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.19042.0 Windows-10-Enterprise
-32-bit.xlsx](/File:InstalledAppxPackages_10.0.19042.0_Windows-10-Enterprise_32-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.19042.0 Windows-10-Enterprise
-64-bit.xlsx](/File:InstalledAppxPackages_10.0.19042.0_Windows-10-Enterprise_64-bit.xlsx "wikilink")
+**10.0.19042.0 /20H2**  
+![InstalledAppxPackages_10.0.19042.0_Windows-10-Education_32-bit.xlsx](../Data/InstalledAppxPackages_10.0.19042.0_Windows-10-Education_32-bit.xlsx)  
+![InstalledAppxPackages_10.0.19042.0_Windows-10-Education_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.19042.0_Windows-10-Education_64-bit.xlsx)  
+![InstalledAppxPackages_10.0.19042.0_Windows-10-Enterprise_32-bit.xlsx](../Data/InstalledAppxPackages_10.0.19042.0_Windows-10-Enterprise_32-bit.xlsx)  
+![InstalledAppxPackages_10.0.19042.0_Windows-10-Enterprise_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.19042.0_Windows-10-Enterprise_64-bit.xlsx)  
 
 **10.0.18363.0 /1909**
-[<File:InstalledAppxPackages> 10.0.18363.0 Windows-10-Education
-32-bit.xlsx](/File:InstalledAppxPackages_10.0.18363.0_Windows-10-Education_32-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.18363.0 Windows-10-Education
-64-bit.xlsx](/File:InstalledAppxPackages_10.0.18363.0_Windows-10-Education_64-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.18363.0 Windows-10-Enterprise
-32-bit.xlsx](/File:InstalledAppxPackages_10.0.18363.0_Windows-10-Enterprise_32-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages> 10.0.18363.0 Windows-10-Enterprise
-64-bit.xlsx](/File:InstalledAppxPackages_10.0.18363.0_Windows-10-Enterprise_64-bit.xlsx "wikilink")
+![InstalledAppxPackages_10.0.18363.0_Windows-10-Education_32-bit.xlsx](../Data/InstalledAppxPackages_10.0.18363.0_Windows-10-Education_32-bit.xlsx)  
+![InstalledAppxPackages_10.0.18363.0_Windows-10-Education_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.18363.0_Windows-10-Education_64-bit.xlsx)  
+![InstalledAppxPackages_10.0.18363.0_Windows-10-Enterprise_32-bit.xlsx](../Data/InstalledAppxPackages_10.0.18363.0_Windows-10-Enterprise_32-bit.xlsx)  
+![InstalledAppxPackages_10.0.18363.0_Windows-10-Enterprise_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.18363.0_Windows-10-Enterprise_64-bit.xlsx)  
 
-**10.0.17763.0 /1809**
-[<File:InstalledAppxPackages_10.0.17763.0_Windows_10_Education_32-bit.xlsx>](/File:InstalledAppxPackages_10.0.17763.0_Windows_10_Education_32-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages_10.0.17763.0_Windows_10_Education_64-bit.xlsx>](/File:InstalledAppxPackages_10.0.17763.0_Windows_10_Education_64-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages_10.0.17763.0_Windows_10_Enterprise_32-bit.xlsx>](/File:InstalledAppxPackages_10.0.17763.0_Windows_10_Enterprise_32-bit.xlsx "wikilink")
-[<File:InstalledAppxPackages_10.0.17763.0_Windows_10_Enterprise_64-bit.xlsx>](/File:InstalledAppxPackages_10.0.17763.0_Windows_10_Enterprise_64-bit.xlsx "wikilink")
+**10.0.17763.0 /1809**  
+![InstalledAppxPackages_10.0.17763.0_Windows_10_Education_32-bit.xlsx](../Data/InstalledAppxPackages_10.0.17763.0_Windows_10_Education_32-bit.xlsx)  
+![InstalledAppxPackages_10.0.17763.0_Windows_10_Education_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.17763.0_Windows_10_Education_64-bit.xlsx)  
+![InstalledAppxPackages_10.0.17763.0_Windows_10_Enterprise_32-bit.xlsx](../Data/xInstalledAppxPackages_10.0.17763.0_Windows_10_Enterprise_32-bit.xlsx)  
+![InstalledAppxPackages_10.0.17763.0_Windows_10_Enterprise_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.17763.0_Windows_10_Enterprise_64-bit.xlsx)  
 
 
 ### Install Windows Features or Uninstall Windows Features
@@ -283,164 +245,124 @@ corresponding ServerFeatures first**
 Lists of the Feature Names and their default Install state you find
 here:
 
-**10.0.22631.0 / W11 23H2**
-[<File:FeaturesList_from_Windows_10.0.22631.0_Windows-11-Education_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.22631.0_Windows-11-Education_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.22631.0_Windows-11-Enterprise_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.22631.0_Windows-11-Enterprise_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.22631.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.22631.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx "wikilink")
+**10.0.22631.0 / W11 23H2**  
+![FeaturesList_from_Windows_10.0.22631.0_Windows-11-Education_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.22631.0_Windows-11-Education_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.22631.0_Windows-11-Enterprise_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.22631.0_Windows-11-Enterprise_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.22631.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.22631.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx)  
 
-**10.0.19045.0 / 22H2**
-[<File:FeaturesList_from_Windows_10.0.19045.0_Windows-10-Education_32-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.19045.0_Windows-10-Education_32-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.19045.0_Windows-10-Education_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.19045.0_Windows-10-Education_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.19045.0_Windows-10-Enterprise_32-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.19045.0_Windows-10-Enterprise_32-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.19045.0_Windows-10-Enterprise_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.19045.0_Windows-10-Enterprise_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.19045.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.19045.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx "wikilink")
+**10.0.19045.0 / 22H2**  
+![FeaturesList_from_Windows_10.0.19045.0_Windows-10-Education_32-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.19045.0_Windows-10-Education_32-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.19045.0_Windows-10-Education_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.19045.0_Windows-10-Education_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.19045.0_Windows-10-Enterprise_32-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.19045.0_Windows-10-Enterprise_32-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.19045.0_Windows-10-Enterprise_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.19045.0_Windows-10-Enterprise_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.19045.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.19045.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx)  
 
-**10.0.22621.0 / W11 22H2**
-[<File:FeaturesList_from_Windows_10.0.22621.0_Windows-11-Education_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.22621.0_Windows-11-Education_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.22621.0_Windows-11-Enterprise_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.22621.0_Windows-11-Enterprise_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.22621.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.22621.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx "wikilink")
+**10.0.22621.0 / W11 22H2**  
+![FeaturesList_from_Windows_10.0.22621.0_Windows-11-Education_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.22621.0_Windows-11-Education_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.22621.0_Windows-11-Enterprise_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.22621.0_Windows-11-Enterprise_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.22621.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.22621.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx)  
 
-**10.0.19044.0 / 21H2**
-[<File:FeaturesList_from_Windows_10.0.19044.0_Windows-10-Education_32-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.19044.0_Windows-10-Education_32-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.19044.0_Windows-10-Education_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.19044.0_Windows-10-Education_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.19044.0_Windows-10-Enterprise_32-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.19044.0_Windows-10-Enterprise_32-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.19044.0_Windows-10-Enterprise_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.19044.0_Windows-10-Enterprise_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.19044.0_Windows-10-Enterprise-LTSC_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.19044.0_Windows-10-Enterprise-LTSC_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.19044.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.19044.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx "wikilink")
+**10.0.19044.0 / 21H2**  
+![FeaturesList_from_Windows_10.0.19044.0_Windows-10-Education_32-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.19044.0_Windows-10-Education_32-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.19044.0_Windows-10-Education_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.19044.0_Windows-10-Education_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.19044.0_Windows-10-Enterprise_32-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.19044.0_Windows-10-Enterprise_32-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.19044.0_Windows-10-Enterprise_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.19044.0_Windows-10-Enterprise_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.19044.0_Windows-10-Enterprise-LTSC_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.19044.0_Windows-10-Enterprise-LTSC_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.19044.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.19044.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx)  
 
-**10.0.22000.0 / W11**
-[<File:FeaturesList_from_Windows_10.0.22000.0_Windows-10-Education_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.22000.0_Windows-10-Education_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.22000.0_Windows-10-Enterprise_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.22000.0_Windows-10-Enterprise_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.22000.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.22000.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx "wikilink")
+**10.0.22000.0 / W11**  
+![FeaturesList_from_Windows_10.0.22000.0_Windows-10-Education_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.22000.0_Windows-10-Education_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.22000.0_Windows-10-Enterprise_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.22000.0_Windows-10-Enterprise_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.22000.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.22000.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx)  
 
-**10.0.20348.0 / Server 2022**
-[<File:FeaturesList_from_Windows_10.0.20348.0_Windows-Server-2022-Datacenter_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.20348.0_Windows-Server-2022-Datacenter_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.20348.0_Windows-Server-2022-Standard_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.20348.0_Windows-Server-2022-Standard_64-bit.xlsx "wikilink")
+**10.0.20348.0 / Server 2022**  
+![FeaturesList_from_Windows_10.0.20348.0_Windows-Server-2022-Datacenter_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.20348.0_Windows-Server-2022-Datacenter_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.20348.0_Windows-Server-2022-Standard_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.20348.0_Windows-Server-2022-Standard_64-bit.xlsx)  
 
-**10.0.19043.0 / 21H1**
-[<File:FeaturesList_from_Windows_10.0.19043.0_Windows-10-Education_32-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.19043.0_Windows-10-Education_32-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.19043.0_Windows-10-Education_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.19043.0_Windows-10-Education_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.19043.0_Windows-10-Enterprise_32-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.19043.0_Windows-10-Enterprise_32-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.19043.0_Windows-10-Enterprise_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.19043.0_Windows-10-Enterprise_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.19043.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.19043.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx "wikilink")
+**10.0.19043.0 / 21H1**  
+![FeaturesList_from_Windows_10.0.19043.0_Windows-10-Education_32-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.19043.0_Windows-10-Education_32-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.19043.0_Windows-10-Education_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.19043.0_Windows-10-Education_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.19043.0_Windows-10-Enterprise_32-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.19043.0_Windows-10-Enterprise_32-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.19043.0_Windows-10-Enterprise_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.19043.0_Windows-10-Enterprise_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.19043.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.19043.0_Windows-10-Enterprise-for-Virtual-Desktops_64-bit.xlsx)  
 
-**10.0.19042.0 / 20H2**
-[<File:FeaturesList_from_Windows_10.0.19042.0_Windows-10-Education_32-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.19042.0_Windows-10-Education_32-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.19042.0_Windows-10-Education_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.19042.0_Windows-10-Education_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.19042.0_Windows-10-Enterprise_32-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.19042.0_Windows-10-Enterprise_32-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.19042.0_Windows-10-Enterprise_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.19042.0_Windows-10-Enterprise_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.19042.0_Windows-Server-Datacenter_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.19042.0_Windows-Server-Datacenter_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.19042.0_Windows-Server-Standard_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.19042.0_Windows-Server-Standard_64-bit.xlsx "wikilink")
+**10.0.19042.0 / 20H2**  
+![FeaturesList_from_Windows_10.0.19042.0_Windows-10-Education_32-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.19042.0_Windows-10-Education_32-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.19042.0_Windows-10-Education_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.19042.0_Windows-10-Education_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.19042.0_Windows-10-Enterprise_32-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.19042.0_Windows-10-Enterprise_32-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.19042.0_Windows-10-Enterprise_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.19042.0_Windows-10-Enterprise_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.19042.0_Windows-Server-Datacenter_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.19042.0_Windows-Server-Datacenter_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.19042.0_Windows-Server-Standard_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.19042.0_Windows-Server-Standard_64-bit.xlsx)  
 
-**10.0.18363.0 /1909**
-[<File:FeaturesList_from_Windows_10.0.18363.0_Windows-10-Education_32-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.18363.0_Windows-10-Education_32-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.18363.0_Windows-10-Education_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.18363.0_Windows-10-Education_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.18363.0_Windows-10-Enterprise_32-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.18363.0_Windows-10-Enterprise_32-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.18363.0_Windows-10-Enterprise_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.18363.0_Windows-10-Enterprise_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.18363.0_Windows-Server-Datacenter_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.18363.0_Windows-Server-Datacenter_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.18363.0_Windows-Server-Standard_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.18363.0_Windows-Server-Standard_64-bit.xlsx "wikilink")
+**10.0.18363.0 /1909**  
+![FeaturesList_from_Windows_10.0.18363.0_Windows-10-Education_32-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.18363.0_Windows-10-Education_32-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.18363.0_Windows-10-Education_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.18363.0_Windows-10-Education_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.18363.0_Windows-10-Enterprise_32-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.18363.0_Windows-10-Enterprise_32-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.18363.0_Windows-10-Enterprise_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.18363.0_Windows-10-Enterprise_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.18363.0_Windows-Server-Datacenter_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.18363.0_Windows-Server-Datacenter_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.18363.0_Windows-Server-Standard_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.18363.0_Windows-Server-Standard_64-bit.xlsx)  
 
-**Windows-Server-2019**
-[<File:FeaturesList_from_Windows_10.0.17763.0_Windows-Server-2019-Datacenter_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.17763.0_Windows-Server-2019-Datacenter_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.17763.0_Windows-Server-2019-DatacenterCore_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.17763.0_Windows-Server-2019-DatacenterCore_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.17763.0_Windows-Server-2019-Standard_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.17763.0_Windows-Server-2019-Standard_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.17763.0_Windows-Server-2019-StandardCore_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.17763.0_Windows-Server-2019-StandardCore_64-bit.xlsx "wikilink")
 
-**10.0.17763.0 /1809**
-[<File:FeaturesList_from_Windows_10.0.17763.0_Windows_10_Education_32-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.17763.0_Windows_10_Education_32-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.17763.0_Windows_10_Education_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.17763.0_Windows_10_Education_64-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.17763.0_Windows_10_Enterprise_32-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.17763.0_Windows_10_Enterprise_32-bit.xlsx "wikilink")
-[<File:FeaturesList_from_Windows_10.0.17763.0_Windows_10_Enterprise_64-bit.xlsx>](/File:FeaturesList_from_Windows_10.0.17763.0_Windows_10_Enterprise_64-bit.xlsx "wikilink")
+**Windows-Server-2019**  
+![FeaturesList_from_Windows_10.0.17763.0_Windows-Server-2019-Datacenter_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.17763.0_Windows-Server-2019-Datacenter_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.17763.0_Windows-Server-2019-DatacenterCore_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.17763.0_Windows-Server-2019-DatacenterCore_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.17763.0_Windows-Server-2019-Standard_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.17763.0_Windows-Server-2019-Standard_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.17763.0_Windows-Server-2019-StandardCore_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.17763.0_Windows-Server-2019-StandardCore_64-bit.xlsx)  
 
-**Windows-Server-2016**
-[<File:FeaturesList> from Windows 10.0.14393.0
-Windows-Server-2016-Datacenter
-64-bit.xlsx](/File:FeaturesList_from_Windows_10.0.14393.0_Windows-Server-2016-Datacenter_64-bit.xlsx "wikilink")
-[<File:FeaturesList> from Windows 10.0.14393.0
-Windows-Server-2016-Standard
-64-bit.xlsx](/File:FeaturesList_from_Windows_10.0.14393.0_Windows-Server-2016-Standard_64-bit.xlsx "wikilink")
+**10.0.17763.0 /1809**  
+![FeaturesList_from_Windows_10.0.17763.0_Windows_10_Education_32-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.17763.0_Windows_10_Education_32-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.17763.0_Windows_10_Education_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.17763.0_Windows_10_Education_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.17763.0_Windows_10_Enterprise_32-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.17763.0_Windows_10_Enterprise_32-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.17763.0_Windows_10_Enterprise_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.17763.0_Windows_10_Enterprise_64-bit.xlsx)  
+
+**Windows-Server-2016**  
+![FeaturesList_from_Windows_10.0.14393.0_Windows-Server-2016-Datacenter_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.14393.0_Windows-Server-2016-Datacenter_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.14393.0_Windows-Server-2016-Standard_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.14393.0_Windows-Server-2016-Standard_64-bit.xlsx)  
 
 
 ### Using GLOBAL_OSIEnableOSDFailedMessage_001.ps1
 
-If you are using the GLOBAL_OSIEnableOSDFailedMessage_001.ps1 you will
-also need an other Script (OSDEnableOSDMessage.ps1) within your own OSD
-Task Sequence.
-The script GLOBAL_OSIEnableOSDFailedMessage_001.ps1 will write a Failed
-Message to the registry.
-[none\|thumb\|300px](/File:GLOBAL_OSIEnableOSDFailedMessage_001.jpg "wikilink")
-At the end of your own Task Sequence, you will have to enter the Script
-OSDEnableOSDMessage.ps1
+If you are using the GLOBAL_OSIEnableOSDFailedMessage_001.ps1 you will also need an other Script (OSDEnableOSDMessage.ps1) within your own OSD Task Sequence.  
+The script GLOBAL_OSIEnableOSDFailedMessage_001.ps1 will write a Failed Message to the registry.  
+![GLOBAL_OSIEnableOSDFailedMessage_001.jpg](../Data/GLOBAL_OSIEnableOSDFailedMessage_001.jpg)  
+At the end of your own Task Sequence, you will have to enter the Script OSDEnableOSDMessage.ps1  
 <https://github.com/ThomasKur/ModernAndSecureWorkplace/blob/master/ConfigMgrOSD/OSDEnableOSDMessage.ps1>
 
-How to use the Script OSDEnableOSDMessage.ps1 is mentioned in this blog
-post:
+How to use the Script OSDEnableOSDMessage.ps1 is mentioned in this blog post:
 <https://www.wpninjas.ch/2019/05/enhanced-os-deployment-end-message/>
 
-So the idea is that when you TS crashes for any reason and the user then
-logs in to his device he will get the above failed Message. If the TS
-went trough ok the user will get a success message when login in.
-Written by OSDEnableOSDMessage.ps1
+So the idea is that when you TS crashes for any reason and the user then logs in to his device he will get the above failed Message. If the TS went trough ok the user will get a success message when login in. Written by OSDEnableOSDMessage.ps1
 
 ### OnPremises Customer Documents
 
-If you are a WimAsAService OnPremises Customer you can find here some
-helpful Documentation:
+If you are a WimAsAService OnPremises Customer you can find here some helpful Documentation:
 
-**Adding baseWIMS,LanguagePacks and FeaturesOnDemand**
-[<File:Adding> baseWIMS,LanguagePacks and FeaturesOnDemand to
-WimAsAService.pdf](/File:Adding_baseWIMS,LanguagePacks_and_FeaturesOnDemand_to_WimAsAService.pdf "wikilink")
+**Adding baseWIMS,LanguagePacks and FeaturesOnDemand**  
+![Adding_baseWIMS,LanguagePacks_and_FeaturesOnDemand_to_WimAsAService.pdf](../Data/Adding_baseWIMS,LanguagePacks_and_FeaturesOnDemand_to_WimAsAService.pdf)  
 
-**Additional Information to Add Windows 11 23H2 BaseWIMs, Language Packs
-and Features on Demand**
-[<File:Additional> Information to Add Windows 11 23H2 BaseWIMs, Language
-Packs and Features on
-Demand.pdf](/File:Additional_Information_to_Add_Windows_11_23H2_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf "wikilink")
+**Additional Information to Add Windows 11 23H2 BaseWIMs, Language Packs and Features on Demand**  
+![Additional_Information_to_Add_Windows_11_23H2_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf](../Data/Additional_Information_to_Add_Windows_11_23H2_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf)  
 
-**Additional Information to Add Windows 10 22H2 BaseWIMs, Language Packs
-and Features on Demand**
-[<File:Additional> Information to Add Windows 10 22H2 BaseWIMs, Language
-Packs and Features on
-Demand.pdf](/File:Additional_Information_to_Add_Windows_10_22H2_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf "wikilink")
+**Additional Information to Add Windows 10 22H2 BaseWIMs, Language Packs and Features on Demand**  
+![Additional_Information_to_Add_Windows_10_22H2_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf](../Data/Additional_Information_to_Add_Windows_10_22H2_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf)  
 
-**Additional Information to Add Windows 11 22H2 BaseWIMs, Language Packs
-and Features on Demand**
-[<File:Additional> Information to Add Windows 11 22H2 BaseWIMs, Language
-Packs and Features on
-Demand.pdf](/File:Additional_Information_to_Add_Windows_11_22H2_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf "wikilink")
+**Additional Information to Add Windows 11 22H2 BaseWIMs, Language Packs and Features on Demand**  
+![Additional_Information_to_Add_Windows_11_22H2_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf](../Data/Additional_Information_to_Add_Windows_11_22H2_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf)  
 
-**Additional Information to Add Windows 10 21H2 BaseWIMs, Language Packs
-and Features on Demand**
-[<File:Additional> Information to Add Windows 10 21H2 BaseWIMs, Language
-Packs and Features on
-Demand.pdf](/File:Additional_Information_to_Add_Windows_10_21H2_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf "wikilink")
+**Additional Information to Add Windows 10 21H2 BaseWIMs, Language Packs and Features on Demand**  
+![Additional_Information_to_Add_Windows_10_21H2_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf](../Data/Additional_Information_to_Add_Windows_10_21H2_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf)  
 
-**Additional Information to Add Windows 11 BaseWIMs, Language Packs and
-Features on Demand**
-[<File:Additional> Information to Add Windows 11 BaseWIMs, Language
-Packs and Features on
-Demand.pdf](/File:Additional_Information_to_Add_Windows_11_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf "wikilink")
+**Additional Information to Add Windows 11 BaseWIMs, Language Packs and Features on Demand**  
+![Additional_Information_to_Add_Windows_11_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf](../Data/Additional_Information_to_Add_Windows_11_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf)  
 
-**Additional Information to Add Windows 10 21H1 BaseWIMs, Language Packs
-and Features on Demand**
-[<File:Additional> Information to Add Windows 10 21H1 BaseWIMs, Language
-Packs and Features on
-Demand.pdf](/File:Additional_Information_to_Add_Windows_10_21H1_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf "wikilink")
+**Additional Information to Add Windows 10 21H1 BaseWIMs, Language Packs and Features on Demand**  
+![Additional_Information_to_Add_Windows_10_21H1_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf](../Data/Additional_Information_to_Add_Windows_10_21H1_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf)  
 
-**Additional Information to Add Windows 10 20H2 BaseWIMs, Language Packs
-and Features on Demand**
-[<File:Additional> Information to Add Windows 10 20H2 BaseWIMs, Language
-Packs and Features on
-Demand.pdf](/File:Additional_Information_to_Add_Windows_10_20H2_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf "wikilink")
+**Additional Information to Add Windows 10 20H2 BaseWIMs, Language Packs and Features on Demand**  
+![Additional_Information_to_Add_Windows_10_20H2_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf](../Data/Additional_Information_to_Add_Windows_10_20H2_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf)  
 
-**Additional Information to Add Windows 10 1909 BaseWIMs, Language Packs
-and Features on Demand**
-[<File:Additional> Information to Add Windows 10 1909 BaseWIMs, Language
-Packs and Features on
-Demand.pdf](/File:Additional_Information_to_Add_Windows_10_1909_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf "wikilink")
+**Additional Information to Add Windows 10 1909 BaseWIMs, Language Packs and Features on Demand**  
+![Additional_Information_to_Add_Windows_10_1909_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf](../Data/Additional_Information_to_Add_Windows_10_1909_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf)  
 
-**Additional Information to Add Windows 10 1709 BaseWIMs, Language Packs
-and Features on Demand**
-[<File:Additional> Information to Add Windows 10 1709 BaseWIMs, Language
-Packs and Features on
-Demand.pdf](/File:Additional_Information_to_Add_Windows_10_1709_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf "wikilink")
+**Additional Information to Add Windows 10 1709 BaseWIMs, Language Packs and Features on Demand**  
+![Additional_Information_to_Add_Windows_10_1709_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf](../Data/Additional_Information_to_Add_Windows_10_1709_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf)  
