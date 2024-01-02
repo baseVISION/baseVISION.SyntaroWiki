@@ -31,7 +31,14 @@ The following graphic shows how your Image Types will be generated:
 ### Adding an Application
 
 There is a short Video, showing you how to add an Application:  
-<YouTube>https://youtu.be/Hd7r1FFIYUo</YouTube>  
+<YouTube>https://youtu.be/Hd7r1FFIYUo</YouTube>
+<object width="425" height="350">
+  <param name="movie" value="https://youtu.be/Hd7r1FFIYUo" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://youtu.be/Hd7r1FFIYUo"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>  
 You can trigger any kind of Application Installation, as long that it can be executed silently.  
 If you want to add an Application, you first need to create a ZIP File that contains the Application Files. The File you want to execute needs to be in the Root Folder of your ZIP File.
 
