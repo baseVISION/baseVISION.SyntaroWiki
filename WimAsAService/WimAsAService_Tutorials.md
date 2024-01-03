@@ -21,7 +21,7 @@
 
 There is a short overview Video, showing you the basic handling of the
 Website:
-<YouTube>https://youtu.be/eG0reI5Kpak</YouTube>
+<YouTube>https://external.youtu.be/eG0reI5Kpak</YouTube>
 
 ### Generate a WIM File
 
