@@ -23,7 +23,9 @@ There is a short overview Video, showing you the basic handling of the
 Website:
 <YouTube>https://youtu.be/eG0reI5Kpak</YouTube>  
 <a herf="https://youtu.be/eG0reI5Kpak" target="_blank">Hello Worls!</a>  
-[Visit this page](http:/link.com(https://youtu.be/eG0reI5Kpak))  
+ 
+[![IMAGE ALT TEXT HERE](../Data/YoutubeWimAsAServiceTutorial.png)](https://youtu.be/eG0reI5Kpak)
+
 [link](https://youtu.be/eG0reI5Kpak/?target=_blank)
 
 ### Generate a WIM File
