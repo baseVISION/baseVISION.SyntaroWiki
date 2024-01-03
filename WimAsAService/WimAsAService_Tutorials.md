@@ -21,12 +21,9 @@
 
 There is a short overview Video, showing you the basic handling of the
 Website:
-<YouTube>https://youtu.be/eG0reI5Kpak</YouTube>  
-<a herf="https://youtu.be/eG0reI5Kpak" target="_blank">Hello Worls!</a>  
- 
-[![IMAGE ALT TEXT HERE](../Data/YoutubeWimAsAServiceTutorial.png)](https://youtu.be/eG0reI5Kpak)
 
-[link](https://youtu.be/eG0reI5Kpak/?target=_blank)
+[![WimAsAServiceTutorials](../Data/YoutubeWimAsAServiceTutorial.png)](https://youtu.be/eG0reI5Kpak)
+
 
 ### Generate a WIM File
 
@@ -50,7 +47,7 @@ The following graphic shows how your Image Types will be generated:
 ### Adding an Application
 
 There is a short Video, showing you how to add an Application:  
-<YouTube>https://youtu.be/Hd7r1FFIYUo</YouTube>
+[![WaaSAddingApplications](../Data/WaaSAddingApplications.png)](https://youtu.be/Hd7r1FFIYUo)
 
 You can trigger any kind of Application Installation, as long that it can be executed silently.  
 If you want to add an Application, you first need to create a ZIP File that contains the Application Files. The File you want to execute needs to be in the Root Folder of your ZIP File.
