@@ -28,7 +28,7 @@ Website:
 ### Generate a WIM File
 
 The following graphic shows how your Image Types will be generated:
-![WIMFile](../Data/WaaS_Flow1.png) |
+![WIMFile](../Data/WaaS_Flow1.png)
 
 | | |
 |---|---|
