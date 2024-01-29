@@ -1,9 +1,9 @@
 # WimAsAService ReleaseNotes
 
-[1. WimAsAService ReleaseNotes](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_ReleaseNotes.md#wimasaservice-releasenotes-1)
-[1.1 4.1.12.0 / 17.01.2023](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_ReleaseNotes.md#41120--17012023)  
-[1.2 4.1.11.0 / 15.01.2023](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_ReleaseNotes.md#41110--15012023)  
-[1.3 4.1.10.0 / 20.10.2022](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_ReleaseNotes.md#41100--20102022)  
+[1. WimAsAService ReleaseNotes](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_ReleaseNotes.md#wimasaservice-releasenotes-1)<br>
+[1.1 4.1.12.0 / 17.01.2023](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_ReleaseNotes.md#41120--17012023)<br>
+[1.2 4.1.11.0 / 15.01.2023](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_ReleaseNotes.md#41110--15012023)<br>
+[1.3 4.1.10.0 / 20.10.2022](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_ReleaseNotes.md#41100--20102022)<br>
 [1.4 4.1.9.0 / 21.09.2022](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_ReleaseNotes.md#4190--21092022)  
 [1.5 4.1.8.0 / 18.03.2022](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_ReleaseNotes.md#4180--18032022)  
 [1.6 4.1.7.0 / 18.03.2022](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_ReleaseNotes.md#4170--18032022)  
