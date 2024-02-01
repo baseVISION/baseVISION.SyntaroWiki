@@ -101,7 +101,7 @@ With the release of WimAsAService 4.0 we have reworked the "Manage Files" site a
 
 Here we will quickly walk you through all the options you have:
 
-![ManageFilesTab](../Data/450px-ManageFilesTab_001.png) |  
+![ManageFilesTab](../Data/450px-ManageFilesTab_001.png)  
 1. Download the documentation of your image  
 2. Download your image in the available format (unavailable types are greyed out) Download Icon: Download WIM file Disk Icon: Download ISO file Harddisk Icon: Download VHD file  
 3. Upload files to your configured Azure Storage Account. In a popup you can choose which file types should be uploaded
