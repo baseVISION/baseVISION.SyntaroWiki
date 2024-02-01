@@ -19,7 +19,7 @@
 This Package installs ActiveUserSetup that is an alternative to the Active
 Setup Method from Microsoft that doesn’t work with Inplace Upgrades.
 You can find more information at
-<https://wiki.syntaro.com/index.php?title=Active_User_Setup>
+<https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/Active%20User%20Setup/Active_User_Setup.md>
 
 #### GLOBAL_baseVISION_PauseToDebug_1_001_P_ML_x99
 
