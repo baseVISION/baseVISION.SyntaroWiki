@@ -43,7 +43,7 @@ Versions)
 ### Adding an Application
 
 This Information was moved to the [Tutorials
-Section](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/Active%20User%20Setup/Active_User_Setup.md)
+Section](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_Tutorials.md#adding-an-application)
 
 ### Not all Updates are Installed
 
