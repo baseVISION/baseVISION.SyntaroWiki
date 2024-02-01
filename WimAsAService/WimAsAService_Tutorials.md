@@ -171,7 +171,7 @@ To react correctly in the code that is executed behind the webhook, we suggest t
 The following is a demo template as an example of such a
 Autounattend.xml. Please at least adjust the two
 "baseVISION_DemoOrganisation" entries in the file, with your
-organisations name.
+organisations name. ![AutounattendTemplate.xml](../Data/AutounattendTemplate.txt)  
 
 | | |
 |---|---|
