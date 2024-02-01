@@ -1,0 +1,132 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<unattend xmlns="urn:schemas-microsoft-com:unattend">
+<settings pass="windowsPE">
+<component xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Microsoft-Windows-International-Core-WinPE" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+<SetupUILanguage>
+<UILanguage>en-US</UILanguage>
+</SetupUILanguage>
+<InputLocale>0409:00000409</InputLocale>
+<UILanguage>en-US</UILanguage>
+<UserLocale>en-US</UserLocale>
+<SystemLocale>en-US</SystemLocale>
+</component>
+<component xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Microsoft-Windows-Setup" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+<UserData>
+<AcceptEula>true</AcceptEula>
+<Organization>baseVISION_DemoOrganization</Organization>
+</UserData>
+<DiskConfiguration>
+<Disk wcm:action="add">
+<CreatePartitions>
+<CreatePartition wcm:action="add">
+<Order>1</Order>
+<Size>500</Size>
+<Type>Primary</Type>
+</CreatePartition>
+<CreatePartition wcm:action="add">
+<Order>2</Order>
+<Size>100</Size>
+<Type>EFI</Type>
+</CreatePartition>
+<CreatePartition wcm:action="add">
+<Order>3</Order>
+<Size>16</Size>
+<Type>MSR</Type>
+</CreatePartition>
+<CreatePartition wcm:action="add">
+<Order>4</Order>
+<Type>Primary</Type>
+<Extend>true</Extend>
+</CreatePartition>
+</CreatePartitions>
+<ModifyPartitions>
+<ModifyPartition wcm:action="add">
+<Format>NTFS</Format>
+<Label>WinRE</Label>
+<Order>1</Order>
+<PartitionID>1</PartitionID>
+<TypeID>DE94BBA4-06D1-4D40-A16A-BFD50179D6AC</TypeID>
+</ModifyPartition>
+<ModifyPartition wcm:action="add">
+<Format>FAT32</Format>
+<Label>System</Label>
+<Order>2</Order>
+<PartitionID>2</PartitionID>
+</ModifyPartition>
+<ModifyPartition wcm:action="add">
+<Order>3</Order>
+<PartitionID>3</PartitionID>
+</ModifyPartition>
+<ModifyPartition wcm:action="add">
+<Format>NTFS</Format>
+<Label>Windows</Label>
+<Letter>C</Letter>
+<Order>4</Order>
+<PartitionID>4</PartitionID>
+</ModifyPartition>
+</ModifyPartitions>
+<DiskID>0</DiskID>
+<WillWipeDisk>true</WillWipeDisk>
+</Disk>
+<WillShowUI>OnError</WillShowUI>
+</DiskConfiguration>
+<ImageInstall>
+<OSImage>
+<InstallTo>
+<DiskID>0</DiskID>
+<PartitionID>4</PartitionID>
+</InstallTo>
+</OSImage>
+</ImageInstall>
+</component>
+</settings>
+<settings pass="oobeSystem">
+<component xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Microsoft-Windows-Shell-Setup" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+<OOBE>
+<HideEULAPage>true</HideEULAPage>
+<HideOEMRegistrationScreen>true</HideOEMRegistrationScreen>
+<HideOnlineAccountScreens>true</HideOnlineAccountScreens>
+<HideLocalAccountScreen>true</HideLocalAccountScreen>
+<HideWirelessSetupInOOBE>true</HideWirelessSetupInOOBE>
+<ProtectYourPC>3</ProtectYourPC>
+<SkipMachineOOBE>true</SkipMachineOOBE>
+<SkipUserOOBE>true</SkipUserOOBE>
+<UnattendEnableRetailDemo>false</UnattendEnableRetailDemo>
+</OOBE>
+<AutoLogon>
+<Password>
+<Value>UABAAHMAcwB3ADAAcgBkAFAAYQBzAHMAdwBvAHIAZAA=</Value>
+<PlainText>false</PlainText>
+</Password>
+<Enabled>true</Enabled>
+<LogonCount>1</LogonCount>
+<Username>administrator</Username>
+</AutoLogon>
+</component>
+<component xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Microsoft-Windows-Deployment" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+<Reseal>
+<Mode>Audit</Mode>
+<ForceShutdownNow>false</ForceShutdownNow>
+</Reseal>
+</component>
+</settings>
+<settings pass="auditUser">
+<component xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Microsoft-Windows-Deployment" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+<RunSynchronous>
+<RunSynchronousCommand wcm:action="add">
+<Order>1</Order>
+<Path>C:\Windows\System32\Sysprep\sysprep.exe /oobe /reboot</Path>
+<WillReboot>Never</WillReboot>
+<Description>Prepare OOBE</Description>
+</RunSynchronousCommand>
+</RunSynchronous>
+</component>
+</settings>
+<settings pass="specialize">
+<component xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Microsoft-Windows-Shell-Setup" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+<RegisteredOrganization>baseVISION_DemoOrganization</RegisteredOrganization>
+<RegisteredOwner>baseVISION_DemoOrganization</RegisteredOwner>
+</component>
+</settings>
+<cpi:offlineImage xmlns:cpi="urn:schemas-microsoft-com:cpi" cpi:source="catalog:c:/temp/baseVISION.clg"/>
+</unattend>
