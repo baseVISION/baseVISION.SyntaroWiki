@@ -42,3 +42,7 @@ Find out more here:
 -   [Introduction](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WIM2USB/WIM2USB_Introduction.md)
 -   [Prerequisites](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WIM2USB/WIM2USB_Prerequisites.md)
 -   [Tutorials](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WIM2USB/WIM2USB_Tutorials.md)
+
+  # Active User Setup Module
+  Information about this Module can be found here
+  [Active User Setup](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/Active%20User%20Setup/Active_User_Setup.md)

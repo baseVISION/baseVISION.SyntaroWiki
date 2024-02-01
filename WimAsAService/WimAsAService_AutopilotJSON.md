@@ -81,7 +81,7 @@ Get-AutopilotProfile | ConvertTo-AutopilotConfigurationJSON | Out-File C:\Temp\A
 
 **Important:** The file name must be named
 AutopilotConfigurationFile.json in addition to being encoded as
-ASCII/ANSI
+ASCII/ANSI<br>
 **Important:** If you have multiple Autoenrollment Profiles, delete all
 other profiles except the one you want to apply to your clients
 
@@ -138,7 +138,7 @@ Out-File -InputObject $AutopilotConfigurationFile -FilePath $env:windir\Provisio
 ## Implement the Script in WimAsAService
 | | |
 |---|---|
-| ![AutopilotJSON](../Data/AutopilotJSON_002.png) | Navigate to the menu “Manage” in the WimAsAService portal and click on “PowerShell Scripts”. Here you can add your own script.Give it a fitting name, version number and description and upload the script that we created previously.
+| ![AutopilotJSON](../Data/AutopilotJSON_002.png) | Navigate to the menu “Manage” in the WimAsAService portal and click on “PowerShell Scripts”. Here you can add your own script. <br>Give it a fitting name, version number and description and upload the script that we created previously.
 | ![AutopilotJSON](../Data/AutopilotJSON_003.png) | Now we can add the script to the “Before Sysprep” section of the “PowerShell Script” options. This will copy our JSON data as the correctly named file to the correct folder.
 
 Now you are done. Generate the WIM-file and deploy it to your devices.
