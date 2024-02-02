@@ -1,12 +1,12 @@
 
 # WimAsAService AutopilotJSON
-[1. Use Case](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_AutopilotJSON.md#use-case)  
-[2. Getting the JSON File](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_AutopilotJSON.md#Getting-the-JSON-File)  
-[- 2.1. Validating Your Autopilot Enrollment Profile](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_AutopilotJSON.md#validating-your-autopilot-enrollment-profile)  
-[- 2.2. Retrieve your Autopilot JSON File](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_AutopilotJSON.md#retrieve-your-autopilot-json-file)  
-[3. Adding the JSON File to your WimAsAService Image](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_AutopilotJSON.md#adding-the-json-file-to-your-wimasaservice-image)  
-[- 3.1. Create the PowerShell-Script](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_AutopilotJSON.md#create-the-powershell-script)  
-[- 3.2. Implement the Script in WimAsAService](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_AutopilotJSON.md#implement-the-script-in-wimasaservice)  
+[1. Use Case](../WimAsAService/WimAsAService_AutopilotJSON.md#use-case)  
+[2. Getting the JSON File](../WimAsAService/WimAsAService_AutopilotJSON.md#Getting-the-JSON-File)  
+[- 2.1. Validating Your Autopilot Enrollment Profile](../WimAsAService/WimAsAService_AutopilotJSON.md#validating-your-autopilot-enrollment-profile)  
+[- 2.2. Retrieve your Autopilot JSON File](../WimAsAService/WimAsAService_AutopilotJSON.md#retrieve-your-autopilot-json-file)  
+[3. Adding the JSON File to your WimAsAService Image](../WimAsAService/WimAsAService_AutopilotJSON.md#adding-the-json-file-to-your-wimasaservice-image)  
+[- 3.1. Create the PowerShell-Script](../WimAsAService/WimAsAService_AutopilotJSON.md#create-the-powershell-script)  
+[- 3.2. Implement the Script in WimAsAService](../WimAsAService/WimAsAService_AutopilotJSON.md#implement-the-script-in-wimasaservice)  
 
 
 # Use Case
