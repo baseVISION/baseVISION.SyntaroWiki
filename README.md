@@ -45,4 +45,4 @@ Find out more here:
 
   # Active User Setup Module
   Information about this Module can be found here
-  [Active User Setup](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/Active%20User%20Setup/Active_User_Setup.md)
+  [Active User Setup](./Active%20User%20Setup/Active_User_Setup.md)
