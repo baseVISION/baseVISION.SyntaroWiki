@@ -22,13 +22,13 @@ More overview Information you can find under:
 More technical Information you can find on this site in the following
 chapters:
 
--   [Tutorials](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_Tutorials.md)
--   [Global Applications](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_Global_Applications.md)
--   [FAQ](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_FAQ.md)
--   [Scripts](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_Scripts.md)
--   [AutopilotJSON](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_AutopilotJSON.md)
--   [Support](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_Support.md)
--   [ReleaseNotes](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WimAsAService_ReleaseNotes.md)
+-   [Tutorials](./WimAsAService/WimAsAService_Tutorials.md)
+-   [Global Applications](./WimAsAService/WimAsAService_Global_Applications.md)
+-   [FAQ](./WimAsAService/WimAsAService_FAQ.md)
+-   [Scripts](./WimAsAService/WimAsAService_Scripts.md)
+-   [AutopilotJSON](./WimAsAService/WimAsAService_AutopilotJSON.md)
+-   [Support](./WimAsAService/WimAsAService_Support.md)
+-   [ReleaseNotes](./WimAsAService/WimAsAService_ReleaseNotes.md)
 
 ## WIM2USB
 
@@ -39,9 +39,9 @@ If you would like to get a free copy of WIM2USB please contact us at
 [support@basevision.ch](mailto:support@basevision.ch?Subject=Request%20for%20WIM2USB)
 Find out more here:
 
--   [Introduction](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WIM2USB/WIM2USB_Introduction.md)
--   [Prerequisites](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WIM2USB/WIM2USB_Prerequisites.md)
--   [Tutorials](https://github.com/baseVISION/baseVISION.SyntaroWiki/blob/main/WimAsAService/WIM2USB/WIM2USB_Tutorials.md)
+-   [Introduction](./WimAsAService/WIM2USB/WIM2USB_Introduction.md)
+-   [Prerequisites](./WimAsAService/WIM2USB/WIM2USB_Prerequisites.md)
+-   [Tutorials](./WimAsAService/WIM2USB/WIM2USB_Tutorials.md)
 
   # Active User Setup Module
   Information about this Module can be found here
