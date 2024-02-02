@@ -1,15 +1,15 @@
 # WimAsAService Global Applications
 
 [1. Provided by baseVISION](../WimAsAService/WimAsAService_Global_Applications.md#provided-by-basevision)  
-[- 1.1. GLOBAL_baseVISION_ActiveUserSetup_1.0.1_001_P_EN_x99]( ../WimAsAService/WimAsAService/WimAsAService_Global_Applications.md#global_basevision_activeusersetup_101_001_p_en_x99)  
-[- 1.2. GLOBAL_baseVISION_PauseToDebug_1_001_P_ML_x99]( ../WimAsAService/WimAsAService/WimAsAService_Global_Applications.md#global_basevision_pausetodebug_1_001_p_ml_x99)  
-[- 1.3. GLOBAL_baseVISION_RemoveW11ConsumerTeams_1.0_001_P_ML_x64]( ../WimAsAService/WimAsAService/WimAsAService_Global_Applications.md#global_basevision_removew11consumerteams_10_001_p_ml_x64)  
-[- 1.4. GLOBAL_Microsoft_CMTrace_5.0.7782.1000_001_P_EN_x99]( ../WimAsAService/WimAsAService/WimAsAService_Global_Applications.md#global_microsoft_cmtrace_5077821000_001_p_en_x99)  
-[- 1.5. GLOBAL_Microsoft_DisableWindowsConsumerFeatures_1.0_001_P_ML_x99]( ../WimAsAService/WimAsAService/WimAsAService_Global_Applications.md#global_microsoft_disablewindowsconsumerfeatures_10_001_p_ml_x99)  
-[- 1.6. GLOBAL_Customer_DisableSecureTime-KB3160312_1.0_001_P_ML_x99]( ../WimAsAService/WimAsAService/WimAsAService_Global_Applications.md#global_customer_disablesecuretime-kb3160312_10_001_p_ml_x99)  
-[- 1.7. GLOBAL_Microsoft_Office365ProPlus_CurrentChanel_001_P_EN&DE_x86]( ../WimAsAService/WimAsAService/WimAsAService_Global_Applications.md#global_microsoft_office365proplus_currentchanel_001_p_ende_x86)  
-[- 1.8. GLOBAL_baseVISION_Restart_1.0_001_P_ML_x99]( ../WimAsAService/WimAsAService/WimAsAService_Global_Applications.md#global_basevision_restart_10_001_p_ml_x99)  
-[2. Provided by ruckzuck]( ../WimAsAService/WimAsAService/WimAsAService_Global_Applications.md#provided-by-ruckzuck)  
+[- 1.1. GLOBAL_baseVISION_ActiveUserSetup_1.0.1_001_P_EN_x99](../WimAsAService/WimAsAService_Global_Applications.md#global_basevision_activeusersetup_101_001_p_en_x99)  
+[- 1.2. GLOBAL_baseVISION_PauseToDebug_1_001_P_ML_x99](../WimAsAService/WimAsAService_Global_Applications.md#global_basevision_pausetodebug_1_001_p_ml_x99)  
+[- 1.3. GLOBAL_baseVISION_RemoveW11ConsumerTeams_1.0_001_P_ML_x64](../WimAsAService/WimAsAService_Global_Applications.md#global_basevision_removew11consumerteams_10_001_p_ml_x64)  
+[- 1.4. GLOBAL_Microsoft_CMTrace_5.0.7782.1000_001_P_EN_x99](../WimAsAService/WimAsAService_Global_Applications.md#global_microsoft_cmtrace_5077821000_001_p_en_x99)  
+[- 1.5. GLOBAL_Microsoft_DisableWindowsConsumerFeatures_1.0_001_P_ML_x99](../WimAsAService/WimAsAService_Global_Applications.md#global_microsoft_disablewindowsconsumerfeatures_10_001_p_ml_x99)  
+[- 1.6. GLOBAL_Customer_DisableSecureTime-KB3160312_1.0_001_P_ML_x99](../WimAsAService/WimAsAService_Global_Applications.md#global_customer_disablesecuretime-kb3160312_10_001_p_ml_x99)  
+[- 1.7. GLOBAL_Microsoft_Office365ProPlus_CurrentChanel_001_P_EN&DE_x86](../WimAsAService/WimAsAService_Global_Applications.md#global_microsoft_office365proplus_currentchanel_001_p_ende_x86)  
+[- 1.8. GLOBAL_baseVISION_Restart_1.0_001_P_ML_x99](../WimAsAService/WimAsAService_Global_Applications.md#global_basevision_restart_10_001_p_ml_x99)  
+[2. Provided by ruckzuck](../WimAsAService/WimAsAService_Global_Applications.md#provided-by-ruckzuck)  
  
 
 ### Provided by baseVISION
