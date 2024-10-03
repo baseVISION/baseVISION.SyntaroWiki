@@ -188,6 +188,11 @@ organisations name. ![AutounattendTemplate.xml](../Data/AutounattendTemplate.xml
 
 Lists of the Modern App Names and if they can be uninstalled:
 
+**10.0.26100 /W11 24H2**  
+![InstalledAppxPackages10.0.26100.0Windows-11-Education64-bit](../Data/InstalledAppxPackages10.0.26100.0Windows-11-Education64-bit.xlsx)  
+![InstalledAppxPackages_10.0.26100.0_Windows-11-Enterprise_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.26100.0_Windows-11-Enterprise_64-bit.xlsx)  
+![InstalledAppxPackages_10.0.26100.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.26100.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx)  
+
 **10.0.22631.0 /W11 23H2**  
 ![InstalledAppxPackages10.0.22631.0Windows-11-Education64-bit](../Data/InstalledAppxPackages10.0.22631.0Windows-11-Education64-bit.xlsx)  
 ![InstalledAppxPackages_10.0.22631.0_Windows-11-Enterprise_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.22631.0_Windows-11-Enterprise_64-bit.xlsx)  
