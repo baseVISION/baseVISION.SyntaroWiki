@@ -265,6 +265,11 @@ corresponding ServerFeatures first**
 Lists of the Feature Names and their default Install state you find
 here:
 
+**10.0.26100.0 / W11 24H2**  
+![FeaturesList_from_Windows_10.0.26100.0_Windows-11-Education_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.26100.0_Windows-11-Education_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.26100.0_Windows-11-Enterprise_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.26100.0_Windows-11-Enterprise_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.26100.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.26100.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx)  
+
 **10.0.22631.0 / W11 23H2**  
 ![FeaturesList_from_Windows_10.0.22631.0_Windows-11-Education_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.22631.0_Windows-11-Education_64-bit.xlsx)  
 ![FeaturesList_from_Windows_10.0.22631.0_Windows-11-Enterprise_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.22631.0_Windows-11-Enterprise_64-bit.xlsx)  
