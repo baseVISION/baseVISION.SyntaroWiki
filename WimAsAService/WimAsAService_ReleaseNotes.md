@@ -2,6 +2,7 @@
 
 [1. WimAsAService ReleaseNotes](../WimAsAService/WimAsAService_ReleaseNotes.md#wimasaservice-releasenotes-1)<br>
 [1.1 4.1.12.0 / 17.01.2023](../WimAsAService/WimAsAService_ReleaseNotes.md#41120--17012023)<br>
+[1.1 4.1.12.0 / 17.01.2023](../WimAsAService/WimAsAService_ReleaseNotes.md#41120--17012023)<br>
 [1.2 4.1.11.0 / 15.01.2023](../WimAsAService/WimAsAService_ReleaseNotes.md#41110--15012023)<br>
 [1.3 4.1.10.0 / 20.10.2022](../WimAsAService/WimAsAService_ReleaseNotes.md#41100--20102022)<br>
 [1.4 4.1.9.0 / 21.09.2022](../WimAsAService/WimAsAService_ReleaseNotes.md#4190--21092022)  
@@ -49,6 +50,10 @@
 [1.46 1.0 / 04.04.2016](../WimAsAService/WimAsAService_ReleaseNotes.md#10--04042016)  
 
 ## WimAsAService ReleaseNotes
+
+### 4.1.13.0 / 09.10.2024
+
+-   We had problems with the Uninstall of Modern Apps under W11 24H2 when using the command get-appxpackage in a PowerShell step in the Tasksequence. This seams to be a MS Bug. As a workaround we now use the “Run Command Line” Type step to execute the PS1
 
 ### 4.1.12.0 / 17.01.2023
 
