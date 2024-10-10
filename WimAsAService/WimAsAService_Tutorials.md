@@ -363,7 +363,10 @@ So the idea is that when you TS crashes for any reason and the user then logs in
 If you are a WimAsAService OnPremises Customer you can find here some helpful Documentation:
 
 **Adding baseWIMS,LanguagePacks and FeaturesOnDemand**  
-![Adding_baseWIMS,LanguagePacks_and_FeaturesOnDemand_to_WimAsAService.pdf](../Data/Adding_baseWIMS,LanguagePacks_and_FeaturesOnDemand_to_WimAsAService.pdf)  
+![Adding_baseWIMS,LanguagePacks_and_FeaturesOnDemand_to_WimAsAService.pdf](../Data/Adding_baseWIMS,LanguagePacks_and_FeaturesOnDemand_to_WimAsAService.pdf)
+
+**Additional Information to Add Windows 11 24H2 BaseWIMs, Language Packs and Features on Demand**  
+![Additional Information to Add Windows 11 24H2 BaseWIMs, Language Packs and Features on Demand.pdf](../Data/Additional Information to Add Windows 11 24H2 BaseWIMs, Language Packs and Features on Demand.pdf)  
 
 **Additional Information to Add Windows 11 23H2 BaseWIMs, Language Packs and Features on Demand**  
 ![Additional_Information_to_Add_Windows_11_23H2_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf](../Data/Additional_Information_to_Add_Windows_11_23H2_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf)  
