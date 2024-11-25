@@ -377,7 +377,7 @@ If you are a WimAsAService OnPremises Customer you can find here some helpful Do
 ![Adding_baseWIMS,LanguagePacks_and_FeaturesOnDemand_to_WimAsAService.pdf](../Data/Adding_baseWIMS,LanguagePacks_and_FeaturesOnDemand_to_WimAsAService.pdf)
 
 **Additional Information to Add Windows Server 2025 BaseWIMs, Language Packs and Features on Demand**  
-![Additional Information to Add Windows Server 2025 BaseWIMs, Language Packs and Features on Demand.pdf](../Data/Additional Information to Add Windows Server 2025 BaseWIMs, Language Packs and Features on Demand.pdf)  
+![Additional_Information_to_Add_Windows_Server_2025_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf](../Data/Additional_Information_to_Add_Windows_Server_2025_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf)  
 
 **Additional Information to Add Windows 11 24H2 BaseWIMs, Language Packs and Features on Demand**  
 ![Additional_Information_to_Add_Windows_11_24H2_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf](../Data/Additional_Information_to_Add_Windows_11_24H2_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf)  
