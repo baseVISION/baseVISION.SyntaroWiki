@@ -15,7 +15,7 @@ You can find the Login Page here <https://factory.wimasaservice.ch>
 Those numbers stand for the Windows Version and Editions you can select
 as a base for your Custom WIM:
 
-10.0.26100 = Windows 11 24H2 / Windows 11 LTSC 2024 / Windows Server 2025
+10.0.26100 = Windows 11 24H2 / Windows 11 LTSC 2024 or Windows Server 2025
 10.0.22631 = Windows 11 23H2  
 10.0.22621 = Windows 11 22H2  
 10.0.20348 = Windows Server 2022  
