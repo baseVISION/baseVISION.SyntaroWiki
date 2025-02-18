@@ -51,6 +51,12 @@
 
 ## WimAsAService ReleaseNotes
 
+### 4.2.0.5 / 24.02.2025
+- Complete rework of the UI, it uses now Angular
+- Logon should now also support Password Manger Tools
+- Tenenat Settings now show you Renewal Date.
+- Added Support for the creation of GEN2 VM's when creating VHD's
+
 ### 4.1.13.0 / 09.10.2024
 
 -   We had problems with the Uninstall of Modern Apps under W11 24H2 when using the command get-appxpackage in a PowerShell step in the Tasksequence. This seams to be a MS Bug. As a workaround we now use the “Run Command Line” Type step to execute the PS1
