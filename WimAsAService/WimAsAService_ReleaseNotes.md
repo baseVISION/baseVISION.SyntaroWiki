@@ -52,6 +52,15 @@
 
 ## WimAsAService ReleaseNotes
 
+### 4.2.0.6 / 25.02.2025
+- Fixed known issues from 4.2.0.5
+    - Fixed Window to enter MFA code is not shown long enough
+    - Fixed When you change the baseWIM and one of the Metro apps selected for uninstallation is not available in this other baseWIM you can’t save the image type even after removing the metro apps that should get uninstalled
+- Added more log information VHD creation scripts
+
+Known Issues:
+- Window to enter MFA code is not shown long enough -> Was fixed with 4.2.0.6
+- When you change the baseWIM and one of the Metro apps selected for uninstallation is not available in this other baseWIM you can’t save the image type even after removing the metro apps that should get uninstalled. -> Was fixed with 4.2.0.6
 ### 4.2.0.5 / 24.02.2025
 - Complete rework of the UI, it uses now Angular
 - Logon should now also support Password Manger Tools
