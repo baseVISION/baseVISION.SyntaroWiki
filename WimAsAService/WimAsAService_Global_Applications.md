@@ -115,6 +115,7 @@ Last update: September 20th 2021
 -   GLOBAL_dotPDNLLC_paint.net_4.3.7_001_P_EN_X64
 -   GLOBAL_FoxitSoftwareInc._FoxitReader_10.1.1.37576_001_P_EN_X64
 -   GLOBAL_FoxitSoftwareInc._FoxitReader_11.1.0.52543_001_P_EN_X64
+-   GLOBAL_Foxit_FoxitPDFReader_CurrentVersion_001_P_EN_x64
 -   GLOBAL_Google_Chrome_62.0.3202.89_001_P_EN_x64
 -   GLOBAL_Google_Chrome_68.0.3440.106_001_P_EN_X64
 -   GLOBAL_Google_Chrome_76.0.3809.100_001_P_EN_X64
@@ -130,6 +131,7 @@ Last update: September 20th 2021
 -   GLOBAL_inkscape_Inkscape_0.92.1_001_P_EN_x64
 -   GLOBAL_Inkscape_Inkscape_1.0.2_001_P_EN_X64
 -   GLOBAL_Inkscape_Inkscape_1.1.1_001_P_EN_X64
+-   GLOBAL_IrfanSkiljan_IrfanView_CurrentVersion_001_P_EN_x64
 -   GLOBAL_Microsoft_.NETFramework_4.6.1_001_P_EN_x86
 -   GLOBAL_Microsoft_.NETFramework_4.6.2_001_P_EN_x64
 -   GLOBAL_Microsoft_.NETFramework_4.7.1_001_P_EN_x64
@@ -152,6 +154,7 @@ Last update: September 20th 2021
 -   GLOBAL_Microsoft_Silverlight_5.1.50918.0_001_P_EN_X64
 -   GLOBAL_Microsoft_SQLServerManagementStudio_15.0.18384.0_001_P_EN_X64
 -   GLOBAL_Microsoft_SQLServerManagementStudio_15.0.18390.0_001_P_EN_X64
+-   GLOBAL_Microsoft_SQLServerManagementStudio_CurrentVersion_001_P_EN_x64
 -   GLOBAL_Microsoft_TeamsMachineWideInstaller_CurrentVersion_001_P_EN_x64\*
 -   GLOBAL_Microsoft_VCRedist2010_10.0.40219_001_P_EN_x64
 -   GLOBAL_Microsoft_VCRedist2010_10.0.40219_001_P_EN_x86
@@ -184,6 +187,7 @@ Last update: September 20th 2021
 -   GLOBAL_Notepad++Team_Notepad++_7.8.9_001_P_EN_X64
 -   GLOBAL_Notepad++Team_Notepad++_7.9.3_001_P_EN_X64
 -   GLOBAL_Notepad++Team_Notepad++_8.2.1_001_P_EN_X64
+-   GLOBAL_Notepad++Team_Notepad++_CurrentVersion_001_P_EN_x64
 -   GLOBAL_Oracle_Java_8.0.1110.14_001_P_EN_x64
 -   GLOBAL_Oracle_Java_8.0.1110.14_001_P_EN_x86
 -   GLOBAL_Oracle_Java_8.0.1510.12_001_P_EN_x64
