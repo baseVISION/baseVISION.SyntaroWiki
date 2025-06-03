@@ -144,9 +144,6 @@ Last update: September 20th 2021
 -   GLOBAL_Microsoft_OpenJDK11_11.0.13.8_001_P_EN_X64
 -   GLOBAL_Microsoft_OpenJDK16_16.0.2.7_001_P_EN_X64
 -   GLOBAL_Microsoft_OpenJDK17_17.0.1.12_001_P_EN_X64
--   GLOBAL_Microsoft_Silverlight_5.1.41212.0_001_P_EN_x64
--   GLOBAL_Microsoft_Silverlight_5.1.41212.0_001_P_EN_x86
--   GLOBAL_Microsoft_Silverlight_5.1.50907.0_001_P_EN_x64
 -   GLOBAL_Microsoft_Silverlight_5.1.50918.0_001_P_EN_X64
 -   GLOBAL_Microsoft_SQLServerManagementStudio_15.0.18384.0_001_P_EN_X64
 -   GLOBAL_Microsoft_SQLServerManagementStudio_15.0.18390.0_001_P_EN_X64
