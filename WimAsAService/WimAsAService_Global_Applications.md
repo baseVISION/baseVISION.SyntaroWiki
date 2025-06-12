@@ -1,4 +1,4 @@
-# WimAsAService Global Applications
+![image](https://github.com/user-attachments/assets/20c5dcf2-fa79-4b97-8c37-f21794c39025)![image](https://github.com/user-attachments/assets/3fcec4a4-04df-408c-b54d-0ca3056dbdaa)# WimAsAService Global Applications
 
 [1. Provided by baseVISION](../WimAsAService/WimAsAService_Global_Applications.md#provided-by-basevision)  
 [- 1.1. GLOBAL_baseVISION_ActiveUserSetup_1.0.1_001_P_EN_x99](../WimAsAService/WimAsAService_Global_Applications.md#global_basevision_activeusersetup_101_001_p_en_x99)  
@@ -107,8 +107,10 @@ Last update: September 20th 2021
 -   GLOBAL_Adobe_AcrobatReaderDCMUI_21.011.20039_001_P_EN_X64
 -   GLOBAL_Adobe_AcrobatReaderDCMUI_22.002.20212_001_P_EN_x86
 -   GLOBAL_Adobe_AcrobatReaderDCMUI_CurrentVersion_001_P_EN_x64\*
+-   GLOBAL_Adobe_AcrobatReaderDCMUI_25.001.20474_001_P_EN_X64
 -   GLOBAL_dotPDNLLC_paint.net_4.2.15_001_P_EN_X64
 -   GLOBAL_dotPDNLLC_paint.net_4.3.7_001_P_EN_X64
+-   GLOBAL_dotPDNLLC_paint.net_5.1.8_001_P_EN_X64
 -   GLOBAL_FoxitSoftwareInc._FoxitReader_10.1.1.37576_001_P_EN_X64
 -   GLOBAL_FoxitSoftwareInc._FoxitReader_11.1.0.52543_001_P_EN_X64
 -   GLOBAL_Foxit_FoxitPDFReader_CurrentVersion_001_P_EN_x64
@@ -120,14 +122,18 @@ Last update: September 20th 2021
 -   GLOBAL_Google_Chrome_89.0.4389.82_001_P_EN_X64
 -   GLOBAL_Google_Chrome_97.0.4692.99_001_P_EN_X64
 -   GLOBAL_Google_Chrome_CurrentVersion_001_P_EN_x64\*
+-   GLOBAL_Google_Chrome_137.0.7151.104_001_P_EN_X64
 -   GLOBAL_IgorPavlov_7Zip_16.04_001_P_EN_x64
 -   GLOBAL_IgorPavlov_7Zip_18.05.00.0_001_P_EN_X64
 -   GLOBAL_IgorPavlov_7Zip_19.00.00.0_001_P_EN_X64
 -   GLOBAL_IgorPavlov_7Zip_21.07.00.0_001_P_EN_X64
+-   GLOBAL_IgorPavlov_7Zip_24.09_001_P_EN_X64
 -   GLOBAL_inkscape_Inkscape_0.92.1_001_P_EN_x64
 -   GLOBAL_Inkscape_Inkscape_1.0.2_001_P_EN_X64
 -   GLOBAL_Inkscape_Inkscape_1.1.1_001_P_EN_X64
+-   GLOBAL_Inkscape_Inkscape_1.4.2_001_P_EN_X64
 -   GLOBAL_IrfanSkiljan_IrfanView_CurrentVersion_001_P_EN_x64
+-   GLOBAL_IrfanSkiljan_IrfanView_4.72_001_P_EN_X64
 -   GLOBAL_Microsoft_.NETFramework_4.6.1_001_P_EN_x86
 -   GLOBAL_Microsoft_.NETFramework_4.6.2_001_P_EN_x64
 -   GLOBAL_Microsoft_.NETFramework_4.7.1_001_P_EN_x64
@@ -137,18 +143,23 @@ Last update: September 20th 2021
 -   GLOBAL_Microsoft_Edge_84.0.522.44_001_P_EN_X64
 -   GLOBAL_Microsoft_Edge_97.0.1072.69_001_P_EN_X86
 -   GLOBAL_Microsoft_Edge_CurrentVersion_001_P_EN_x64\*
+-   GLOBAL_Microsoft_Edge_137.0.3296.68_001_P_EN_X86
 -   GLOBAL_Microsoft_FSLogixApps_2.9.7654.46150_001_P_EN_X64
 -   GLOBAL_Microsoft_FSLogixApps_2.9.7979.62170_001_P_EN_X64
+-   GLOBAL_Microsoft_FSLogixApps_3.25.401.15305_001_P_EN_X64
 -   GLOBAL_Microsoft_LocalAdministratorPasswordSolution_6.2.0.0_001_P_EN_X64
 -   GLOBAL_Microsoft_FSLogixApps_CurrentVersion_001_P_EN_x64\*
 -   GLOBAL_Microsoft_OpenJDK11_11.0.13.8_001_P_EN_X64
 -   GLOBAL_Microsoft_OpenJDK16_16.0.2.7_001_P_EN_X64
 -   GLOBAL_Microsoft_OpenJDK17_17.0.1.12_001_P_EN_X64
+-   GLOBAL_Microsoft_OpenJDK_21.0.7.6_001_P_EN_X64
 -   GLOBAL_Microsoft_Silverlight_5.1.50918.0_001_P_EN_X64
 -   GLOBAL_Microsoft_SQLServerManagementStudio_15.0.18384.0_001_P_EN_X64
 -   GLOBAL_Microsoft_SQLServerManagementStudio_15.0.18390.0_001_P_EN_X64
 -   GLOBAL_Microsoft_SQLServerManagementStudio_CurrentVersion_001_P_EN_x64
+-   GLOBAL_Microsoft_SQLServerManagementStudio_20.2.37.0_001_P_EN_X64
 -   GLOBAL_Microsoft_TeamsMachineWideInstaller_CurrentVersion_001_P_EN_x64\*
+-   GLOBAL_Microsoft_TeamsMachineWideInstaller_1.6.0.33567_001_P_EN_X86
 -   GLOBAL_Microsoft_VCRedist2010_10.0.40219_001_P_EN_x64
 -   GLOBAL_Microsoft_VCRedist2010_10.0.40219_001_P_EN_x86
 -   GLOBAL_Microsoft_VCRedist2012_11.0.61030.0_001_P_EN_x64
@@ -171,6 +182,9 @@ Last update: September 20th 2021
 -   GLOBAL_Microsoft_VCRedist2019_14.30.30708.0_001_P_EN_X86
 -   GLOBAL_Microsoft_VCRedist2022_14.30.30708.0_001_P_EN_X86
 -   GLOBAL_Microsoft_VCRedist2022_14.30.30708.0_001_P_EN_X64
+-   GLOBAL_Microsoft_VDRedist2022_14.44.35208.0_001_P_EN_X86
+-   GLOBAL_Microsoft_VCRedist2022_14.44.35208.0_001_P_EN_X64
+-   GLOBAL_Mozilla_FirefoxESR_128.11.0_001_P_EN_X64
 -   GLOBAL_Mozilla_FirefoxESR_68.4.2_001_P_EN_X64
 -   GLOBAL_Mozilla_FirefoxESR_78.8.0_001_P_EN_X64
 -   GLOBAL_Mozilla_FirefoxESR_91.5.0_001_P_EN_X64
@@ -181,6 +195,7 @@ Last update: September 20th 2021
 -   GLOBAL_Notepad++Team_Notepad++_7.9.3_001_P_EN_X64
 -   GLOBAL_Notepad++Team_Notepad++_8.2.1_001_P_EN_X64
 -   GLOBAL_Notepad++Team_Notepad++_CurrentVersion_001_P_EN_x64
+-   GLOBAL_Notepad++Team_Notepad++_8.8.1_001_P_EN_X64
 -   GLOBAL_Oracle_Java_8.0.1110.14_001_P_EN_x64
 -   GLOBAL_Oracle_Java_8.0.1110.14_001_P_EN_x86
 -   GLOBAL_Oracle_Java_8.0.1510.12_001_P_EN_x64
@@ -188,12 +203,14 @@ Last update: September 20th 2021
 -   GLOBAL_Oracle_Java_8.0.2610.12_001_P_EN_X64
 -   GLOBAL_Oracle_Java_8.0.2810.9_001_P_EN_X64
 -   GLOBAL_Oracle_Java_8.0.3210.7_001_P_EN_X64
+-   GLOBAL_Oracle_Java_8.0.4510.10_001_P_EN_X64
 -   GLOBAL_RogerZander_RuckZuckPowerShellProvider_1.6.1.1_001_P_EN_x64
 -   GLOBAL_RogerZander_RuckZuckPowerShellProvider_1.7.2.0_001_P_EN_X64
 -   GLOBAL_VideoLAN_VLCmediaplayer_2.2.6_001_P_EN_x64
 -   GLOBAL_VideoLAN_VLCmediaplayer_3.0.11_001_P_EN_X64
 -   GLOBAL_VideoLAN_VLCmediaplayer_3.0.12_001_P_EN_X64
 -   GLOBAL_VideoLAN_VLCmediaplayer_3.0.16_001_P_EN_X64
+-   GLOBAL_VideoLAN_VLCmediaplayer_3.0.21_001_P_EN_X64
 
 
 '\*These packages will download the current version from Ruckzuck and
