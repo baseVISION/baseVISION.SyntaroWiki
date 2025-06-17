@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/20c5dcf2-fa79-4b97-8c37-f21794c39025)![image](https://github.com/user-attachments/assets/3fcec4a4-04df-408c-b54d-0ca3056dbdaa)# WimAsAService Global Applications
+# WimAsAService Global Applications
 
 [1. Provided by baseVISION](../WimAsAService/WimAsAService_Global_Applications.md#provided-by-basevision)  
 [- 1.1. GLOBAL_baseVISION_ActiveUserSetup_1.0.1_001_P_EN_x99](../WimAsAService/WimAsAService_Global_Applications.md#global_basevision_activeusersetup_101_001_p_en_x99)  
