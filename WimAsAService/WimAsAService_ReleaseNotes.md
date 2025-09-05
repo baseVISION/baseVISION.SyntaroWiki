@@ -1,6 +1,8 @@
 # WimAsAService ReleaseNotes
+4.2.0.9 / 05.09.2025
 
 [1. WimAsAService ReleaseNotes](../WimAsAService/WimAsAService_ReleaseNotes.md#wimasaservice-releasenotes-1)<br>
+[4.2.0.8 / 31.03.2025](../WimAsAService/WimAsAService_ReleaseNotes.md#4209--05092025)<br>
 [4.2.0.8 / 31.03.2025](../WimAsAService/WimAsAService_ReleaseNotes.md#4208--31032025)<br>
 [4.2.0.7 / 24.03.2025](../WimAsAService/WimAsAService_ReleaseNotes.md#4207--24032025)<br>
 [4.2.0.6 / 25.02.2025](../WimAsAService/WimAsAService_ReleaseNotes.md#4206--25022025)<br>
@@ -54,6 +56,9 @@
 [1.0 / 04.04.2016](../WimAsAService/WimAsAService_ReleaseNotes.md#10--04042016)  
 
 ## WimAsAService ReleaseNotes
+
+### 4.2.0.9 / 05.09.2025
+- Modified the Script that creates VHDs, so that for GEN2 VM's no recovery partition gets created (was already this way for GEN1). The recovery partition caused problems when later extending the OS Disk. 
 
 ### 4.2.0.8 / 31.03.2025
 - Added new Script for checking of expiring SASTokens
