@@ -96,9 +96,8 @@ If you see an error during the installation of a CurrentVersion package
 In that case use the Script GLOBAL_InstallLatestdotNetForRzget_001 in
 your PowerShell "Before Apps" section.
 
-Last update: September 20th 2021
-\*GLOBAL_Adobe_AcrobatReaderDC_21.001.20142_001_P_EN_X64
-
+Last update: September 16th 2025
+-   GLOBAL_Adobe_AcrobatReaderDC_21.001.20142_001_P_EN_X64
 -   GLOBAL_Adobe_AcrobatReaderDC_21.011.20039_001_P_EN_X64
 -   GLOBAL_Adobe_AcrobatReaderDCMUI_17.012.20098_001_P_EN_x64
 -   GLOBAL_Adobe_AcrobatReaderDCMUI_19.012.20036_001_P_EN_X64
