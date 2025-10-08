@@ -188,6 +188,11 @@ organisations name. ![AutounattendTemplate.xml](../Data/AutounattendTemplate.xml
 
 Lists of the Modern App Names and if they can be uninstalled:
 
+**10.0.26200 /W11 25H2**  
+![InstalledAppxPackages10.0.26200.0_Windows-11-Education64-bit.xlsx](../Data/InstalledAppxPackages10.0.26200.0_Windows-11-Education64-bit.xlsx)  
+![InstalledAppxPackages_10.0.26200.0_Windows-11-Enterprise_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.26200.0_Windows-11-Enterprise_64-bit.xlsx)  
+![InstalledAppxPackages_10.0.26200.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.26200.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx)  
+
 **10.0.26100.0 /Server 2025**  
 ![InstalledAppxPackages_10.0.26100.0_Windows-Server-2025-Datacenter_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.26100.0_Windows-Server-2025-Datacenter_64-bit.xlsx)  
 ![InstalledAppxPackages_10.0.26100.0_Windows-Server-2025-Standard_64-bit.xlsx](../Data/InstalledAppxPackages_10.0.26100.0_Windows-Server-2025-Standard_64-bit.xlsx)  
@@ -270,6 +275,11 @@ corresponding ServerFeatures first**
 Lists of the Feature Names and their default Install state you find
 here:
 
+
+**10.0.26200.0 / W11 25H2**  
+![FeaturesList_from_Windows_10.0.26200.0_Windows-11-Education_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.26200.0_Windows-11-Education_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.26200.0_Windows-11-Enterprise_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.26200.0_Windows-11-Enterprise_64-bit.xlsx)  
+![FeaturesList_from_Windows_10.0.26200.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.26200.0_Windows-11-Enterprise-for-Virtual-Desktops_64-bit.xlsx)  
 
 **10.0.26100.0 / Server 2025**  
 ![FeaturesList_from_Windows_10.0.26100.0_Windows-Server-2025-Datacenter_64-bit.xlsx](../Data/FeaturesList_from_Windows_10.0.26100.0_Windows-Server-2025-Datacenter_64-bit.xlsx)  
@@ -374,7 +384,10 @@ So the idea is that when you TS crashes for any reason and the user then logs in
 If you are a WimAsAService OnPremises Customer you can find here some helpful Documentation:
 
 **Adding baseWIMS,LanguagePacks and FeaturesOnDemand**  
-![Adding_baseWIMS,LanguagePacks_and_FeaturesOnDemand_to_WimAsAService.pdf](../Data/Adding_baseWIMS,LanguagePacks_and_FeaturesOnDemand_to_WimAsAService.pdf)
+![Adding_baseWIMS,LanguagePacks_and_FeaturesOnDemand_to_WimAsAService.pdf](../Data/Adding_baseWIMS,LanguagePacks_and_FeaturesOnDemand_to_WimAsAService.pdf)  
+
+**Additional Information to Add Windows 11 25H2 BaseWIMs, Language Packs and Features on Demand**  
+![Additional_Information_to_Add_Windows_11_25H2_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf](../Data/Additional_Information_to_Add_Windows_11_25H2_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf)  
 
 **Additional Information to Add Windows Server 2025 BaseWIMs, Language Packs and Features on Demand**  
 ![Additional_Information_to_Add_Windows_Server_2025_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf](../Data/Additional_Information_to_Add_Windows_Server_2025_BaseWIMs,_Language_Packs_and_Features_on_Demand.pdf)  
