@@ -12,7 +12,7 @@ You can find the Login Page here <https://factory.wimasaservice.ch>
 
 ### How long are my generated files stored?
 
-Generated files such as WIM, ISO, and VHD are automatically deleted once they are older than one year.
+Generated files such as WIM, ISO, and VHD are automatically deleted once they are older than one year.<br>
 Applications, scripts, and PPKG files are not deleted automatically. You can remove them yourself at any time.
 
 ### What do the numbers under “Select base WIM” mean?
