@@ -1,11 +1,10 @@
 # WimAsAService FAQ
 [1. Where can I login and generate my WIM-Files](../WimAsAService/WimAsAService_FAQ.md#where-can-i-login-and-generate-my-wim-files)  
-[2. How long are my generated files stored?](../WimAsAService/WimAsAService_FAQ.md#missing-language-packs)  
+[2. How long are my generated files stored?](../WimAsAService_FAQ.md#how-long-are-my-generated-files-stored)  
 [3. What do the numbers under “Select base WIM” mean?](../WimAsAService/WimAsAService_FAQ.md#what-do-the-numbers-under-select-base-wim-mean)  
 [4. Adding an Application](../WimAsAService/WimAsAService_FAQ.md#adding-an-application)  
 [5. Not all Updates are Installed](../WimAsAService/WimAsAService_FAQ.md#not-all-updates-are-installed)  
 [6. Missing Language Packs](../WimAsAService/WimAsAService_FAQ.md#missing-language-packs)  
-
 
 ### Where can I login and generate my WIM-Files
 
