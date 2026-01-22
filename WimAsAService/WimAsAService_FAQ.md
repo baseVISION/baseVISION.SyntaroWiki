@@ -1,14 +1,20 @@
 # WimAsAService FAQ
 [1. Where can I login and generate my WIM-Files](../WimAsAService/WimAsAService_FAQ.md#where-can-i-login-and-generate-my-wim-files)  
-[2. What do the numbers under “Select base WIM” mean?](../WimAsAService/WimAsAService_FAQ.md#what-do-the-numbers-under-select-base-wim-mean)  
-[3. Adding an Application](../WimAsAService/WimAsAService_FAQ.md#adding-an-application)  
-[4. Not all Updates are Installed](../WimAsAService/WimAsAService_FAQ.md#not-all-updates-are-installed)  
-[5. Missing Language Packs](../WimAsAService/WimAsAService_FAQ.md#missing-language-packs)  
+[2. How long are my generated files stored?](../WimAsAService/WimAsAService_FAQ.md#missing-language-packs)  
+[3. What do the numbers under “Select base WIM” mean?](../WimAsAService/WimAsAService_FAQ.md#what-do-the-numbers-under-select-base-wim-mean)  
+[4. Adding an Application](../WimAsAService/WimAsAService_FAQ.md#adding-an-application)  
+[5. Not all Updates are Installed](../WimAsAService/WimAsAService_FAQ.md#not-all-updates-are-installed)  
+[6. Missing Language Packs](../WimAsAService/WimAsAService_FAQ.md#missing-language-packs)  
 
 
 ### Where can I login and generate my WIM-Files
 
 You can find the Login Page here <https://factory.wimasaservice.ch>
+
+### How long are my generated files stored?
+
+Generated files such as WIM, ISO, and VHD are automatically deleted once they are older than one year.
+Applications, scripts, and PPKG files are not deleted automatically. You can remove them yourself at any time.
 
 ### What do the numbers under “Select base WIM” mean?
 
