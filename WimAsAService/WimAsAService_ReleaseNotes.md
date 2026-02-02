@@ -58,6 +58,9 @@
 
 ## WimAsAService ReleaseNotes
 
+### 4.2.0.11 / 02.02.2026
+- Fixed rare issue of image capture failures caused by insufficient WinPE RAM disk space by relocating the DISM scratch directory
+
 ### 4.2.0.10 / 08.10.2025
 - Added a script that is able to uninstall user metro apps that are blocking sysprep from running
 - Modified tasksequence to run this script before sysprep
