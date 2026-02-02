@@ -2,6 +2,7 @@
 4.2.0.9 / 05.09.2025
 
 [1. WimAsAService ReleaseNotes](../WimAsAService/WimAsAService_ReleaseNotes.md#wimasaservice-releasenotes-1)<br>
+[4.2.0.11 / 02.02.2026](../WimAsAService/WimAsAService_ReleaseNotes.md#42011--02022026)<br>
 [4.2.0.10 / 08.10.2025](../WimAsAService/WimAsAService_ReleaseNotes.md#42010--08102025)<br>
 [4.2.0.9 / 05.09.2025](../WimAsAService/WimAsAService_ReleaseNotes.md#4209--05092025)<br>
 [4.2.0.8 / 31.03.2025](../WimAsAService/WimAsAService_ReleaseNotes.md#4208--31032025)<br>
