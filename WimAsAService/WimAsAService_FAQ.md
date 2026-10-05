@@ -20,7 +20,7 @@ Applications, scripts, and PPKG files are not deleted automatically. You can rem
 Those numbers stand for the Windows Version and Editions you can select
 as a base for your Custom WIM:
 
-10.0.26300 = Windows 11 26H2
+10.0.26300 = Windows 11 26H2<br>
 10.0.26200 = Windows 11 25H2  
 10.0.26100 = Windows 11 24H2 / Windows 11 LTSC 2024 / Windows Server 2025  
 10.0.22631 = Windows 11 23H2  
